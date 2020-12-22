@@ -1,0 +1,24 @@
+service:
+  version: 1.0.0
+  url: https://url.com
+  srs: EPSG:28992
+  format: jpeg
+  transparent: false
+  layer: 2019_ortho25
+
+bbox:
+  west: 201763.0000
+  south: 500353.0000
+  east: 205310.0000
+  north: 504609.0000
+
+image:
+  size: 200
+  resolution: 600
+  directory: D:\Luchtfotos\nederland_200
+  projection: EPSG:28992
+
+timeout: 300
+bandscount: 3
+tmpdirectory: ../tmp
+threads: 12

@@ -1,71 +1,48 @@
+import argparse
 import os
+import yaml
+import schemas
+import logging as log
+from cerberus import Validator
 
 def main():
-    print_welcome_message()
-    mode = select_mode()
-    execute_mode(mode)
+    # Setting up parser with all arguments
+    parser = argparse.ArgumentParser(description='Download and analyze arial imagery.', prog='AIDA')
+    parser.add_argument('--version', action='version', version='%(prog)s 1.0.0-dev')
+    parser.add_argument('-v', "--verbose", action="store_true", help="run progam in verbose mode")
+    parser.add_argument('config', help='imports a configuration file')
+    args = parser.parse_args()
 
-def select_mode(retry = False):
-
-    if(retry):
-        os.system('cls')
-
-    print("To start the program you need to select one of the following options:")
-    print("A: wizard")
-    print("B: config file")
-    print("C: about")
-    print("X: exit")
-    print()
-    if(retry):
-        print("That was not a valid option. Please try again.")
-    mode = input("Option: ")
-
-    possible_options = ["A", "B", "C", "X"]
-
-    if (mode.upper() not in possible_options):
-        select_mode(True)
-
-    return mode.upper()
-
-def execute_mode(mode):
-    if (mode == "A"):
-        wizard_mode()
-    elif (mode == "B"):
-        config_mode()
-    elif (mode == "C"):
-        about_mode()
+    # If verbose flag is true change logging config to debug level so info is showed.
+    if args.verbose:
+        log.basicConfig(format="%(levelname)s: %(message)s", level=log.DEBUG)
+        log.info("Verbose output.")
     else:
-        exit()
+        log.basicConfig(format="%(levelname)s: %(message)s")
 
-def wizard_mode():
-    pass
+    try:
+        # Try to open config file
+        with open(args.config) as f:
+            config = yaml.load(f.read(), Loader=yaml.FullLoader)
 
-def config_mode():
-    pass
+        # Validate config file
+        v = Validator(schemas.yml_schema)
+        valid_yaml = v.validate(config)
 
-def about_mode():
-    os.system('cls')
-    print("About this tool:")
-    print()
-    print("This tool is created by the group named: \"Parkeerplaats speurders\".")
-    print("It was created in a school project for the company TheRightDirection.")
-    print("")
-    answer = input("Do you want to return to the main menu? Y/n ")
+        # When config file is not valid, throw error, otherwise start program.
+        if(not valid_yaml):
+            log.error("Your configuration file was not valid.")
+            log.error(v.errors)
+        else:
+            start(config)
 
-    if(answer.upper() == "Y" or answer == ""):
-        os.system('cls')
-        mode = select_mode()
-        execute_mode(mode)
-    else:
-        exit()
+    except FileNotFoundError:
+        log.error("File could not be found.")
+    except Exception as e:
+            log.error("File can be found, but something went wrong.")
+            log.error(e)
 
-def exit():
-    print("Good bye")
-
-def print_welcome_message():
-    os.system('cls')
-    print("Welcome to AIDA: Aerial Imagery Downloader and Analyzer")
-    print("With this tool you can download and analyze Areial Imaergy automaticly.")
-    print()
+def start(config):
+    log.info("Config loaded succesfully")
 
 main()
