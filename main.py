@@ -5,6 +5,7 @@ import schemas
 import logging as log
 import glob
 from cerberus import Validator
+import directory
 
 def main():
     # Setting up parser with all arguments
@@ -46,25 +47,18 @@ def main():
 def start(config):
     log.info("Config loaded succesfully.")
 
-    if(not os.path.isdir(config['tmpdirectory'])):
-        answer = input("Temp directory (" + config['tmpdirectory'] + ") does not exist. Do you want to create it? [Y/n] ")
+    # Create or emtpy all directories
+    directory.check(config["tmpdirectory"], "Temp directory")
+    directory.create_or_empty(f"{config['tmpdirectory']}/images")
+    directory.create_or_empty(f"{config['tmpdirectory']}/images/all")
+    directory.create_or_empty(f"{config['tmpdirectory']}/images/analyzed/set1")
+    directory.create_or_empty(f"{config['tmpdirectory']}/images/analyzed/set2")
+    directory.create_or_empty(f"{config['tmpdirectory']}/index")
+    directory.create_or_empty(f"{config['tmpdirectory']}/xml")
+    directory.check(config["image"]["directory"], "Image directory")
 
-        if(answer.upper() == "Y" or answer == ""):
-            if(not create_directory(config['tmpdirectory'])):
-                return
-    else:
-        log.info("Temp directory (" + config['tmpdirectory'] + ") found.")
+    log.info("All directories created/emptied succesfully.")
+
     
-    # check other directories
-
-def create_directory(directory):
-    try:
-        os.makedirs(directory)
-        log.info("Directory created successfully")
-        return True
-    except OSError:
-        log.error("Could not create directory")
-        return False
-
 
 main()

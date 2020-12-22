@@ -15,7 +15,7 @@ bbox:
 image:
   size: 200
   resolution: 600
-  directory: D:\Luchtfotos\nederland_200
+  directory: C:\Users\luukw\Desktop\nederland_500
   projection: EPSG:28992
 
 timeout: 300

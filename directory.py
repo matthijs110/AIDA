@@ -1,0 +1,41 @@
+import os
+import glob
+import logging as log
+
+def create_or_empty(directory):
+    if(os.path.isdir(directory)):
+        log.info(f"Directory ({directory}) found.")
+
+        # Remove all files if directory is not emtpy
+        if(len(glob.glob(directory + "/*")) != 0):
+            for f in glob.glob(directory + "/*"):
+                try:
+                    os.remove(f)
+                    log.info(f"File ({f}) Removed.")
+                except Exception as e:
+                    log.error(f"Could not remove file ({f})")
+                    log.info(e)
+                    log.error("Exiting...")
+                    exit()
+    else:
+        create(directory)
+
+def check(directory, name):
+    if(not os.path.isdir(directory)):
+        answer = input(f"{name} ({directory}) does not exist. Do you want to create it? [Y/n] ")
+
+        if(answer.upper() == "Y" or answer == ""):
+            create(directory)
+
+    else:
+        log.info(f"{name} ({directory}) found.")
+
+def create(directory):
+    try:
+        os.makedirs(directory)
+        log.info(f"Directory ({directory}) created successfully")
+    except OSError as e:
+        log.error(f"Could not create directory ({directory})")
+        log.info(e)
+        log.error("Exiting...")
+        exit()
