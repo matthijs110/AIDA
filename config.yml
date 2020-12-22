@@ -20,5 +20,5 @@ image:
 
 timeout: 300
 bandscount: 3
-tmpdirectory: ../tmp
+tmpdirectory: ./tmp
 threads: 12
