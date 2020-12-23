@@ -6,6 +6,9 @@ import logging as log
 import glob
 from cerberus import Validator
 import directory
+import multiprocessing
+import status
+import time
 
 def main():
     # Setting up parser with all arguments
@@ -31,18 +34,21 @@ def main():
         v = Validator(schemas.yml_schema)
         valid_yaml = v.validate(config)
 
-        # When config file is not valid, throw error, otherwise start program.
+        # When config file is not valid, throw error and exit
         if(not valid_yaml):
             log.error("Your configuration file was not valid.")
             log.error(v.errors)
-        else:
-            start(config)
+            exit()
 
     except FileNotFoundError:
         log.error("File could not be found.")
+        exit()
     except Exception as e:
-            log.error("File can be found, but something went wrong.")
-            log.error(e)
+        log.error("File can be found, but something went wrong.")
+        log.error(e)
+        exit()
+    
+    start(config)
 
 def start(config):
     log.info("Config loaded succesfully.")
@@ -59,6 +65,18 @@ def start(config):
 
     log.info("All directories created/emptied succesfully.")
 
-    
+    max_threads = multiprocessing.cpu_count() * 2
+
+    if(int(config["threads"]) > max_threads):
+        log.error("Trying to allocate too many threads. MAX: " + str(max_threads))
+        exit()
+
+    log.info(f"{config['threads']}/{max_threads} threads allocated.")
+
+    print("Starting downloader...")
+    #time.sleep(1)
+
+    status.updateStatus()
+
 
 main()

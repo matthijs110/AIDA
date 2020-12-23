@@ -10,8 +10,9 @@ def create_or_empty(directory):
         if(len(glob.glob(directory + "/*")) != 0):
             for f in glob.glob(directory + "/*"):
                 try:
-                    os.remove(f)
-                    log.info(f"File ({f}) Removed.")
+                    if(os.path.isfile(f)):
+                        os.remove(f)
+                        log.info(f"File ({f}) Removed.")
                 except Exception as e:
                     log.error(f"Could not remove file ({f})")
                     log.info(e)
