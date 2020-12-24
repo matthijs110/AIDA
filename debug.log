@@ -1,0 +1,1406 @@
+2020-12-24 02:52:49,092 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 02:52:49,093 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 02:52:49,094 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 02:52:49,096 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 02:52:49,099 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,100 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,101 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,103 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,105 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,106 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,107 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,108 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,109 [MainThread] [INFO] File (./tmp/images/all\202363.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,110 [MainThread] [INFO] File (./tmp/images/all\202363.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,111 [MainThread] [INFO] File (./tmp/images/all\202363.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,112 [MainThread] [INFO] File (./tmp/images/all\202363.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,112 [MainThread] [INFO] File (./tmp/images/all\202363.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,113 [MainThread] [INFO] File (./tmp/images/all\202363.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,116 [MainThread] [INFO] File (./tmp/images/all\202363.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,118 [MainThread] [INFO] File (./tmp/images/all\202363.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,119 [MainThread] [INFO] File (./tmp/images/all\202963.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,119 [MainThread] [INFO] File (./tmp/images/all\202963.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,120 [MainThread] [INFO] File (./tmp/images/all\202963.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,121 [MainThread] [INFO] File (./tmp/images/all\202963.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,122 [MainThread] [INFO] File (./tmp/images/all\202963.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,123 [MainThread] [INFO] File (./tmp/images/all\202963.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,124 [MainThread] [INFO] File (./tmp/images/all\202963.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,127 [MainThread] [INFO] File (./tmp/images/all\202963.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,127 [MainThread] [INFO] File (./tmp/images/all\203563.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,128 [MainThread] [INFO] File (./tmp/images/all\203563.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,129 [MainThread] [INFO] File (./tmp/images/all\203563.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,130 [MainThread] [INFO] File (./tmp/images/all\203563.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,131 [MainThread] [INFO] File (./tmp/images/all\203563.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,132 [MainThread] [INFO] File (./tmp/images/all\203563.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,133 [MainThread] [INFO] File (./tmp/images/all\203563.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,134 [MainThread] [INFO] File (./tmp/images/all\203563.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,135 [MainThread] [INFO] File (./tmp/images/all\204163.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,137 [MainThread] [INFO] File (./tmp/images/all\204163.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,138 [MainThread] [INFO] File (./tmp/images/all\204163.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,139 [MainThread] [INFO] File (./tmp/images/all\204163.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,140 [MainThread] [INFO] File (./tmp/images/all\204163.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,141 [MainThread] [INFO] File (./tmp/images/all\204163.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,141 [MainThread] [INFO] File (./tmp/images/all\204163.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,142 [MainThread] [INFO] File (./tmp/images/all\204163.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,143 [MainThread] [INFO] File (./tmp/images/all\204763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,144 [MainThread] [INFO] File (./tmp/images/all\204763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,145 [MainThread] [INFO] File (./tmp/images/all\204763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,147 [MainThread] [INFO] File (./tmp/images/all\204763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,148 [MainThread] [INFO] File (./tmp/images/all\204763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,150 [MainThread] [INFO] File (./tmp/images/all\204763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,151 [MainThread] [INFO] File (./tmp/images/all\204763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,171 [MainThread] [INFO] File (./tmp/images/all\204763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 02:52:49,171 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 02:52:49,173 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 02:52:49,174 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 02:52:49,174 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 02:52:49,175 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 02:52:49,176 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 02:52:49,176 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 02:52:49,296 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 02:52:49,296 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 02:52:49,297 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 02:52:49,298 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 02:52:49,299 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 02:52:49,299 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 02:52:49,299 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 02:52:49,299 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:49,299 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 02:52:49,300 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:49,300 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 02:52:49,300 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:49,301 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:49,301 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 02:52:49,302 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 02:52:49,303 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 02:52:49,305 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 02:52:49,306 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 02:52:49,306 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:49,307 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 02:52:49,307 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:49,308 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 02:52:49,309 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 02:52:49,309 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:49,336 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 02:52:49,346 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 02:52:49,349 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 02:52:49,396 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 02:52:49,397 [MainThread] [INFO] All threads started
+2020-12-24 02:52:50,407 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,407 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 02:52:50,409 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2020-12-24 02:52:50,409 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:50,793 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,793 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 02:52:50,795 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,795 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 02:52:50,796 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2020-12-24 02:52:50,797 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:50,797 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2020-12-24 02:52:50,797 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:50,798 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,799 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 02:52:50,801 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2020-12-24 02:52:50,802 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:50,837 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,838 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 02:52:50,846 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2020-12-24 02:52:50,847 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:50,857 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,858 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 02:52:50,860 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2020-12-24 02:52:50,860 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:50,930 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:50,931 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 02:52:50,937 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2020-12-24 02:52:50,937 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:51,961 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:51,961 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2020-12-24 02:52:51,964 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2020-12-24 02:52:51,964 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:52,205 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:52,206 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 02:52:52,208 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2020-12-24 02:52:52,208 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2020-12-24 02:52:52,980 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:52,980 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2020-12-24 02:52:52,982 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2020-12-24 02:52:52,982 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:53,423 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:53,424 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2020-12-24 02:52:53,426 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2020-12-24 02:52:53,427 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:53,441 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:53,448 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2020-12-24 02:52:53,451 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2020-12-24 02:52:53,451 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:53,509 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:53,510 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2020-12-24 02:52:53,512 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2020-12-24 02:52:53,512 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:54,000 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:54,001 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2020-12-24 02:52:54,002 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:54,002 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2020-12-24 02:52:54,003 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2020-12-24 02:52:54,003 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:54,004 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2020-12-24 02:52:54,004 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:54,540 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:54,540 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2020-12-24 02:52:54,542 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2020-12-24 02:52:54,542 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:54,672 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:54,673 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2020-12-24 02:52:54,675 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2020-12-24 02:52:54,675 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:54,683 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:54,684 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2020-12-24 02:52:54,688 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2020-12-24 02:52:54,688 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:55,018 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,019 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2020-12-24 02:52:55,021 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2020-12-24 02:52:55,021 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:55,064 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,065 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2020-12-24 02:52:55,067 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2020-12-24 02:52:55,067 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:55,146 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,146 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2020-12-24 02:52:55,148 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2020-12-24 02:52:55,148 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:55,326 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,327 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2020-12-24 02:52:55,328 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2020-12-24 02:52:55,328 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:55,588 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,588 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2020-12-24 02:52:55,591 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2020-12-24 02:52:55,591 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2020-12-24 02:52:55,637 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,638 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2020-12-24 02:52:55,640 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2020-12-24 02:52:55,640 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:55,753 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,753 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2020-12-24 02:52:55,755 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2020-12-24 02:52:55,756 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:55,795 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,796 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2020-12-24 02:52:55,797 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2020-12-24 02:52:55,798 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:55,974 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:55,975 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2020-12-24 02:52:55,977 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2020-12-24 02:52:55,977 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:56,144 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,145 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2020-12-24 02:52:56,147 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2020-12-24 02:52:56,147 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:56,332 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,333 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2020-12-24 02:52:56,335 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2020-12-24 02:52:56,335 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:56,394 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,394 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2020-12-24 02:52:56,397 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2020-12-24 02:52:56,397 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:56,596 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,596 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2020-12-24 02:52:56,598 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2020-12-24 02:52:56,598 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2020-12-24 02:52:56,676 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,676 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2020-12-24 02:52:56,681 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2020-12-24 02:52:56,681 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2020-12-24 02:52:56,784 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,785 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2020-12-24 02:52:56,787 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2020-12-24 02:52:56,787 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2020-12-24 02:52:56,935 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:56,935 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2020-12-24 02:52:56,937 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2020-12-24 02:52:56,937 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2020-12-24 02:52:57,085 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,085 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2020-12-24 02:52:57,087 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2020-12-24 02:52:57,088 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2020-12-24 02:52:57,288 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,288 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2020-12-24 02:52:57,290 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2020-12-24 02:52:57,291 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2020-12-24 02:52:57,357 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,358 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2020-12-24 02:52:57,360 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2020-12-24 02:52:57,360 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2020-12-24 02:52:57,389 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,390 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2020-12-24 02:52:57,392 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2020-12-24 02:52:57,392 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2020-12-24 02:52:57,484 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,485 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2020-12-24 02:52:57,844 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,845 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2020-12-24 02:52:57,856 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,856 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.
+2020-12-24 02:52:57,974 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:57,974 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2020-12-24 02:52:58,013 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:58,013 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2020-12-24 02:52:58,015 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2020-12-24 02:52:58,015 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2020-12-24 02:52:58,246 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:58,246 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2020-12-24 02:52:58,300 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:58,303 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2020-12-24 02:52:58,368 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:58,369 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2020-12-24 02:52:58,819 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:52:58,820 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2020-12-24 02:52:58,822 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2020-12-24 02:52:58,822 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2020-12-24 02:53:04,987 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 02:53:04,988 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2020-12-24 03:00:29,284 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:00:29,285 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:00:29,286 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:00:29,287 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:00:29,290 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,291 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,293 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,294 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,297 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,298 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,299 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,301 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,302 [MainThread] [INFO] File (./tmp/images/all\202363.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,303 [MainThread] [INFO] File (./tmp/images/all\202363.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,304 [MainThread] [INFO] File (./tmp/images/all\202363.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,305 [MainThread] [INFO] File (./tmp/images/all\202363.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,307 [MainThread] [INFO] File (./tmp/images/all\202363.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,309 [MainThread] [INFO] File (./tmp/images/all\202363.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,310 [MainThread] [INFO] File (./tmp/images/all\202363.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,311 [MainThread] [INFO] File (./tmp/images/all\202363.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,312 [MainThread] [INFO] File (./tmp/images/all\202963.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,313 [MainThread] [INFO] File (./tmp/images/all\202963.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,314 [MainThread] [INFO] File (./tmp/images/all\202963.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,315 [MainThread] [INFO] File (./tmp/images/all\202963.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,317 [MainThread] [INFO] File (./tmp/images/all\202963.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,319 [MainThread] [INFO] File (./tmp/images/all\202963.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,320 [MainThread] [INFO] File (./tmp/images/all\202963.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,321 [MainThread] [INFO] File (./tmp/images/all\202963.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,322 [MainThread] [INFO] File (./tmp/images/all\203563.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,323 [MainThread] [INFO] File (./tmp/images/all\203563.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,324 [MainThread] [INFO] File (./tmp/images/all\203563.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,327 [MainThread] [INFO] File (./tmp/images/all\203563.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,328 [MainThread] [INFO] File (./tmp/images/all\203563.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,330 [MainThread] [INFO] File (./tmp/images/all\203563.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,331 [MainThread] [INFO] File (./tmp/images/all\203563.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,332 [MainThread] [INFO] File (./tmp/images/all\203563.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,333 [MainThread] [INFO] File (./tmp/images/all\204163.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,334 [MainThread] [INFO] File (./tmp/images/all\204163.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,335 [MainThread] [INFO] File (./tmp/images/all\204163.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,337 [MainThread] [INFO] File (./tmp/images/all\204163.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,338 [MainThread] [INFO] File (./tmp/images/all\204163.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,340 [MainThread] [INFO] File (./tmp/images/all\204163.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,341 [MainThread] [INFO] File (./tmp/images/all\204163.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,342 [MainThread] [INFO] File (./tmp/images/all\204163.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,343 [MainThread] [INFO] File (./tmp/images/all\204763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,344 [MainThread] [INFO] File (./tmp/images/all\204763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,345 [MainThread] [INFO] File (./tmp/images/all\204763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,348 [MainThread] [INFO] File (./tmp/images/all\204763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,349 [MainThread] [INFO] File (./tmp/images/all\204763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,350 [MainThread] [INFO] File (./tmp/images/all\204763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,351 [MainThread] [INFO] File (./tmp/images/all\204763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,355 [MainThread] [INFO] File (./tmp/images/all\204763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:00:29,357 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:00:29,357 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:00:29,358 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:00:29,359 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:00:29,360 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:00:29,360 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:00:29,361 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:00:29,474 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 03:00:29,475 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 03:00:29,476 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 03:00:29,477 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 03:00:29,477 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 03:00:29,477 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:00:29,477 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 03:00:29,478 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 03:00:29,478 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 03:00:29,478 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:00:29,479 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 03:00:29,479 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:00:29,480 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 03:00:29,481 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 03:00:29,481 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 03:00:29,481 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:00:29,482 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:00:29,482 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 03:00:29,483 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 03:00:29,483 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 03:00:29,484 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 03:00:29,484 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 03:00:29,486 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:00:29,486 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:00:29,486 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 03:00:29,487 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 03:00:29,487 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:00:29,488 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 03:00:29,489 [MainThread] [INFO] All threads started
+2020-12-24 03:00:30,418 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:30,418 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 03:00:30,474 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:30,474 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 03:00:30,698 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:30,698 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 03:00:30,858 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:30,858 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 03:00:30,872 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:30,872 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 03:00:31,043 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:31,044 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 03:00:31,047 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:31,048 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 03:00:31,052 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:00:31,053 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 03:10:16,605 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:10:16,606 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:10:16,608 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:10:16,610 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:10:16,612 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,614 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,615 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,617 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,619 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,621 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,622 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,623 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:10:16,624 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:10:16,625 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:10:16,627 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:10:16,629 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:10:16,631 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:10:16,632 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:10:16,633 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:10:16,747 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 03:10:16,748 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 03:10:16,748 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 03:10:16,749 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 03:10:16,749 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 03:10:16,749 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 03:10:16,750 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:16,750 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 03:10:16,750 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 03:10:16,751 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:16,751 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 03:10:16,751 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 03:10:16,752 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 03:10:16,752 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 03:10:16,753 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 03:10:16,754 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 03:10:16,754 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 03:10:16,755 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 03:10:16,755 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 03:10:16,755 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:16,755 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 03:10:16,756 [MainThread] [INFO] All threads started
+2020-12-24 03:10:16,756 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:16,756 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 03:10:16,757 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:16,757 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:16,757 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 03:10:16,758 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:16,759 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:17,705 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:17,706 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 03:10:17,708 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2020-12-24 03:10:17,708 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:17,932 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:17,932 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 03:10:17,934 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2020-12-24 03:10:17,934 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:18,008 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,008 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 03:10:18,010 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2020-12-24 03:10:18,010 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:18,060 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,060 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 03:10:18,062 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2020-12-24 03:10:18,062 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:18,137 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,137 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 03:10:18,139 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2020-12-24 03:10:18,139 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:18,219 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,220 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 03:10:18,222 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2020-12-24 03:10:18,222 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:18,429 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,430 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 03:10:18,430 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,431 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 03:10:18,432 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2020-12-24 03:10:18,432 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:18,432 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2020-12-24 03:10:18,433 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:18,915 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,915 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2020-12-24 03:10:18,917 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:18,918 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2020-12-24 03:10:18,918 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:18,918 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2020-12-24 03:10:18,919 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2020-12-24 03:10:18,919 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:19,354 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,354 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2020-12-24 03:10:19,356 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2020-12-24 03:10:19,356 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:19,401 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,401 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2020-12-24 03:10:19,403 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2020-12-24 03:10:19,403 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:19,452 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,453 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2020-12-24 03:10:19,455 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2020-12-24 03:10:19,455 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:19,526 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,527 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2020-12-24 03:10:19,528 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2020-12-24 03:10:19,529 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:19,566 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,567 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2020-12-24 03:10:19,568 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2020-12-24 03:10:19,568 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:19,655 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:19,656 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2020-12-24 03:10:19,657 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2020-12-24 03:10:19,658 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:20,452 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,454 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2020-12-24 03:10:20,455 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2020-12-24 03:10:20,455 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:20,492 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,493 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2020-12-24 03:10:20,495 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2020-12-24 03:10:20,495 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:20,641 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,641 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2020-12-24 03:10:20,643 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2020-12-24 03:10:20,643 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:20,817 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,817 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2020-12-24 03:10:20,819 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2020-12-24 03:10:20,820 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:20,886 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,887 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2020-12-24 03:10:20,889 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2020-12-24 03:10:20,889 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:20,974 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:20,975 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2020-12-24 03:10:20,978 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2020-12-24 03:10:20,978 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:21,003 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:21,003 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2020-12-24 03:10:21,005 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2020-12-24 03:10:21,006 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:21,513 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:21,514 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2020-12-24 03:10:21,516 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2020-12-24 03:10:21,516 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:21,829 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:21,830 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2020-12-24 03:10:21,832 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2020-12-24 03:10:21,832 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:21,904 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:21,905 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2020-12-24 03:10:21,907 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2020-12-24 03:10:21,907 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:21,950 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:21,951 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2020-12-24 03:10:21,953 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2020-12-24 03:10:21,953 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:22,166 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,167 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2020-12-24 03:10:22,169 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2020-12-24 03:10:22,169 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:22,171 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,171 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2020-12-24 03:10:22,173 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2020-12-24 03:10:22,173 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:22,286 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,286 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2020-12-24 03:10:22,289 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2020-12-24 03:10:22,289 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:22,736 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,736 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2020-12-24 03:10:22,738 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2020-12-24 03:10:22,738 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:10:22,784 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,786 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2020-12-24 03:10:22,789 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2020-12-24 03:10:22,789 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:22,975 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:22,975 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2020-12-24 03:10:22,977 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2020-12-24 03:10:22,977 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:10:23,128 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,129 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2020-12-24 03:10:23,131 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2020-12-24 03:10:23,131 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:10:23,306 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,306 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2020-12-24 03:10:23,311 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2020-12-24 03:10:23,312 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:10:23,363 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,364 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2020-12-24 03:10:23,372 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2020-12-24 03:10:23,373 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:23,400 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,400 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2020-12-24 03:10:23,410 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2020-12-24 03:10:23,410 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:10:23,453 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,454 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2020-12-24 03:10:23,456 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2020-12-24 03:10:23,456 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:10:23,982 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:23,982 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2020-12-24 03:10:23,985 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2020-12-24 03:10:23,985 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:10:24,041 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,042 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2020-12-24 03:10:24,053 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,053 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2020-12-24 03:10:24,120 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,121 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.
+2020-12-24 03:10:24,263 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,263 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2020-12-24 03:10:24,476 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,476 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2020-12-24 03:10:24,500 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,501 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2020-12-24 03:10:24,503 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2020-12-24 03:10:24,504 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:10:24,819 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,819 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2020-12-24 03:10:24,885 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:24,886 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2020-12-24 03:10:25,462 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:10:25,462 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2020-12-24 03:14:14,678 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:14:14,679 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:14:14,680 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:14:14,681 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:14:14,685 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,686 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,688 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,690 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,691 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,693 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,694 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,696 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,697 [MainThread] [INFO] File (./tmp/images/all\202363.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,698 [MainThread] [INFO] File (./tmp/images/all\202363.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,701 [MainThread] [INFO] File (./tmp/images/all\202363.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,702 [MainThread] [INFO] File (./tmp/images/all\202363.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,704 [MainThread] [INFO] File (./tmp/images/all\202363.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,705 [MainThread] [INFO] File (./tmp/images/all\202363.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,707 [MainThread] [INFO] File (./tmp/images/all\202363.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,708 [MainThread] [INFO] File (./tmp/images/all\202363.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,711 [MainThread] [INFO] File (./tmp/images/all\202963.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,713 [MainThread] [INFO] File (./tmp/images/all\202963.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,714 [MainThread] [INFO] File (./tmp/images/all\202963.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,715 [MainThread] [INFO] File (./tmp/images/all\202963.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,717 [MainThread] [INFO] File (./tmp/images/all\202963.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,718 [MainThread] [INFO] File (./tmp/images/all\202963.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,721 [MainThread] [INFO] File (./tmp/images/all\202963.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,722 [MainThread] [INFO] File (./tmp/images/all\202963.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,723 [MainThread] [INFO] File (./tmp/images/all\203563.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,725 [MainThread] [INFO] File (./tmp/images/all\203563.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,726 [MainThread] [INFO] File (./tmp/images/all\203563.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,728 [MainThread] [INFO] File (./tmp/images/all\203563.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,729 [MainThread] [INFO] File (./tmp/images/all\203563.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,731 [MainThread] [INFO] File (./tmp/images/all\203563.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,733 [MainThread] [INFO] File (./tmp/images/all\203563.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,735 [MainThread] [INFO] File (./tmp/images/all\203563.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,736 [MainThread] [INFO] File (./tmp/images/all\204163.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,737 [MainThread] [INFO] File (./tmp/images/all\204163.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,738 [MainThread] [INFO] File (./tmp/images/all\204163.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,739 [MainThread] [INFO] File (./tmp/images/all\204163.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,741 [MainThread] [INFO] File (./tmp/images/all\204163.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,742 [MainThread] [INFO] File (./tmp/images/all\204163.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,746 [MainThread] [INFO] File (./tmp/images/all\204163.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,746 [MainThread] [INFO] File (./tmp/images/all\204163.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,747 [MainThread] [INFO] File (./tmp/images/all\204763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,748 [MainThread] [INFO] File (./tmp/images/all\204763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,751 [MainThread] [INFO] File (./tmp/images/all\204763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,752 [MainThread] [INFO] File (./tmp/images/all\204763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,753 [MainThread] [INFO] File (./tmp/images/all\204763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,754 [MainThread] [INFO] File (./tmp/images/all\204763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,755 [MainThread] [INFO] File (./tmp/images/all\204763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,759 [MainThread] [INFO] File (./tmp/images/all\204763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:14:14,761 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:14:14,761 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:14:14,762 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:14:14,763 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:14:14,763 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:14:14,764 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:14:14,764 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:20:29,002 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:20:29,003 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:20:29,004 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:20:29,006 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:20:29,007 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:20:29,008 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:20:29,008 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:20:29,009 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:20:29,010 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:20:29,010 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:20:29,011 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:21:22,338 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:21:22,340 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:21:22,341 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:21:22,342 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:21:22,343 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:21:22,344 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:21:22,345 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:21:22,345 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:21:22,346 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:21:22,346 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:21:22,347 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:21:22,458 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 03:21:22,459 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 03:21:22,459 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 03:21:22,460 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 03:21:22,460 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:22,460 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 03:21:22,462 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 03:21:22,462 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 03:21:22,462 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:22,462 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 03:21:22,463 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:22,463 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 03:21:22,463 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 03:21:22,465 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:22,465 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 03:21:22,465 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 03:21:22,465 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 03:21:22,467 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:22,467 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 03:21:22,467 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 03:21:22,468 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 03:21:22,469 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:22,468 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 03:21:22,468 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:22,469 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 03:21:22,471 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:22,494 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 03:21:22,549 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 03:21:22,550 [MainThread] [INFO] All threads started
+2020-12-24 03:21:23,789 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:23,790 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 03:21:23,792 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2020-12-24 03:21:23,792 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:23,800 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:23,801 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 03:21:23,803 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2020-12-24 03:21:23,804 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:24,012 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,013 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 03:21:24,015 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2020-12-24 03:21:24,015 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:24,066 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,066 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 03:21:24,069 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2020-12-24 03:21:24,069 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:24,120 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,121 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 03:21:24,123 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2020-12-24 03:21:24,123 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:24,156 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,157 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 03:21:24,159 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2020-12-24 03:21:24,160 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:24,165 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,166 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 03:21:24,169 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2020-12-24 03:21:24,169 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:24,572 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,573 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 03:21:24,575 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2020-12-24 03:21:24,575 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:24,699 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,700 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2020-12-24 03:21:24,702 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2020-12-24 03:21:24,703 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:24,919 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:24,920 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2020-12-24 03:21:24,923 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2020-12-24 03:21:24,923 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:25,129 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,129 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2020-12-24 03:21:25,131 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2020-12-24 03:21:25,131 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:25,168 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,169 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2020-12-24 03:21:25,171 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2020-12-24 03:21:25,171 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:25,321 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,321 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2020-12-24 03:21:25,323 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2020-12-24 03:21:25,324 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:25,324 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,324 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2020-12-24 03:21:25,326 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2020-12-24 03:21:25,326 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:25,334 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,335 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2020-12-24 03:21:25,350 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2020-12-24 03:21:25,350 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:25,829 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,829 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2020-12-24 03:21:25,832 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2020-12-24 03:21:25,832 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:25,975 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:25,975 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2020-12-24 03:21:25,977 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2020-12-24 03:21:25,978 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:26,191 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,192 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2020-12-24 03:21:26,194 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2020-12-24 03:21:26,195 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:26,243 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,243 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2020-12-24 03:21:26,246 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2020-12-24 03:21:26,246 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:26,475 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,475 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2020-12-24 03:21:26,477 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2020-12-24 03:21:26,477 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:26,552 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,553 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2020-12-24 03:21:26,555 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2020-12-24 03:21:26,555 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:26,557 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,557 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2020-12-24 03:21:26,559 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2020-12-24 03:21:26,560 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:26,618 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:26,618 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2020-12-24 03:21:26,621 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2020-12-24 03:21:26,622 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:27,011 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,011 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2020-12-24 03:21:27,014 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2020-12-24 03:21:27,014 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:27,385 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,387 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2020-12-24 03:21:27,388 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2020-12-24 03:21:27,388 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:27,486 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,487 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2020-12-24 03:21:27,489 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2020-12-24 03:21:27,489 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:27,826 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,826 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2020-12-24 03:21:27,828 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2020-12-24 03:21:27,829 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:27,830 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,830 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2020-12-24 03:21:27,833 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2020-12-24 03:21:27,833 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:27,957 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:27,957 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2020-12-24 03:21:27,960 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2020-12-24 03:21:27,960 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:28,010 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,011 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2020-12-24 03:21:28,013 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2020-12-24 03:21:28,013 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:28,036 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,039 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2020-12-24 03:21:28,042 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2020-12-24 03:21:28,042 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:28,142 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,143 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2020-12-24 03:21:28,145 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2020-12-24 03:21:28,145 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:21:28,512 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,512 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2020-12-24 03:21:28,515 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2020-12-24 03:21:28,515 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:21:28,579 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,579 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2020-12-24 03:21:28,582 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2020-12-24 03:21:28,582 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:21:28,681 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,681 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2020-12-24 03:21:28,684 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2020-12-24 03:21:28,684 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:21:28,976 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:28,976 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2020-12-24 03:21:28,979 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2020-12-24 03:21:28,979 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:21:29,175 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,175 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2020-12-24 03:21:29,178 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2020-12-24 03:21:29,178 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:21:29,230 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,231 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2020-12-24 03:21:29,239 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,239 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2020-12-24 03:21:29,243 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2020-12-24 03:21:29,243 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:21:29,313 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,314 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2020-12-24 03:21:29,316 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2020-12-24 03:21:29,316 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:29,553 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,554 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2020-12-24 03:21:29,723 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,723 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.
+2020-12-24 03:21:29,724 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,724 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2020-12-24 03:21:29,911 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:29,911 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2020-12-24 03:21:30,170 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:30,170 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2020-12-24 03:21:30,174 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:30,174 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2020-12-24 03:21:30,267 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:30,268 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2020-12-24 03:21:30,270 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2020-12-24 03:21:30,270 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:21:31,083 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:21:31,083 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2020-12-24 03:24:18,000 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:24:18,001 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:24:18,002 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:24:18,004 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:24:18,008 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,009 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,011 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,013 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,014 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,016 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,017 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,018 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,020 [MainThread] [INFO] File (./tmp/images/all\202363.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,021 [MainThread] [INFO] File (./tmp/images/all\202363.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,023 [MainThread] [INFO] File (./tmp/images/all\202363.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,024 [MainThread] [INFO] File (./tmp/images/all\202363.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,025 [MainThread] [INFO] File (./tmp/images/all\202363.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,027 [MainThread] [INFO] File (./tmp/images/all\202363.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,028 [MainThread] [INFO] File (./tmp/images/all\202363.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,029 [MainThread] [INFO] File (./tmp/images/all\202363.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,030 [MainThread] [INFO] File (./tmp/images/all\202963.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,031 [MainThread] [INFO] File (./tmp/images/all\202963.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,034 [MainThread] [INFO] File (./tmp/images/all\202963.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,036 [MainThread] [INFO] File (./tmp/images/all\202963.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,037 [MainThread] [INFO] File (./tmp/images/all\202963.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,038 [MainThread] [INFO] File (./tmp/images/all\202963.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,039 [MainThread] [INFO] File (./tmp/images/all\202963.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,040 [MainThread] [INFO] File (./tmp/images/all\202963.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,041 [MainThread] [INFO] File (./tmp/images/all\203563.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,042 [MainThread] [INFO] File (./tmp/images/all\203563.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,045 [MainThread] [INFO] File (./tmp/images/all\203563.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,046 [MainThread] [INFO] File (./tmp/images/all\203563.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,047 [MainThread] [INFO] File (./tmp/images/all\203563.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,048 [MainThread] [INFO] File (./tmp/images/all\203563.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,049 [MainThread] [INFO] File (./tmp/images/all\203563.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,050 [MainThread] [INFO] File (./tmp/images/all\203563.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,051 [MainThread] [INFO] File (./tmp/images/all\204163.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,052 [MainThread] [INFO] File (./tmp/images/all\204163.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,053 [MainThread] [INFO] File (./tmp/images/all\204163.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,056 [MainThread] [INFO] File (./tmp/images/all\204163.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,057 [MainThread] [INFO] File (./tmp/images/all\204163.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,058 [MainThread] [INFO] File (./tmp/images/all\204163.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,059 [MainThread] [INFO] File (./tmp/images/all\204163.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,060 [MainThread] [INFO] File (./tmp/images/all\204163.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,061 [MainThread] [INFO] File (./tmp/images/all\204763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,062 [MainThread] [INFO] File (./tmp/images/all\204763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,063 [MainThread] [INFO] File (./tmp/images/all\204763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,064 [MainThread] [INFO] File (./tmp/images/all\204763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,067 [MainThread] [INFO] File (./tmp/images/all\204763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,068 [MainThread] [INFO] File (./tmp/images/all\204763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,069 [MainThread] [INFO] File (./tmp/images/all\204763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,073 [MainThread] [INFO] File (./tmp/images/all\204763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:18,074 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:24:18,075 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:24:18,077 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:24:18,078 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:24:18,078 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:24:18,079 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:24:18,079 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:24:18,187 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 03:24:18,187 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 03:24:18,188 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 03:24:18,189 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 03:24:18,189 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 03:24:18,189 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:18,189 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 03:24:18,190 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 03:24:18,190 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 03:24:18,191 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 03:24:18,191 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:18,191 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:18,192 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 03:24:18,192 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 03:24:18,193 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 03:24:18,194 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:18,194 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 03:24:18,194 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 03:24:18,195 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:18,196 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 03:24:18,197 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:18,196 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 03:24:18,197 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:18,197 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 03:24:18,197 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 03:24:18,198 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 03:24:18,199 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:18,210 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 03:24:18,210 [MainThread] [INFO] All threads started
+2020-12-24 03:24:19,160 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,161 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 03:24:19,162 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2020-12-24 03:24:19,162 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:19,215 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,216 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 03:24:19,218 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2020-12-24 03:24:19,218 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:19,308 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,310 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 03:24:19,314 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2020-12-24 03:24:19,314 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:19,346 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,347 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 03:24:19,349 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2020-12-24 03:24:19,349 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:19,371 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,372 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 03:24:19,381 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2020-12-24 03:24:19,381 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:19,677 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,677 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 03:24:19,679 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2020-12-24 03:24:19,679 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:19,804 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,805 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 03:24:19,806 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:19,806 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 03:24:19,807 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2020-12-24 03:24:19,808 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:19,808 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2020-12-24 03:24:19,808 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:20,027 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,028 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2020-12-24 03:24:20,030 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2020-12-24 03:24:20,030 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:20,206 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,207 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2020-12-24 03:24:20,209 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2020-12-24 03:24:20,209 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:20,365 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,367 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2020-12-24 03:24:20,369 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2020-12-24 03:24:20,370 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:20,514 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,514 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2020-12-24 03:24:20,516 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2020-12-24 03:24:20,517 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:20,611 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,611 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2020-12-24 03:24:20,614 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2020-12-24 03:24:20,614 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:20,745 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:20,746 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2020-12-24 03:24:20,748 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2020-12-24 03:24:20,749 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:20,883 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,014 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,015 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2020-12-24 03:24:21,017 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2020-12-24 03:24:21,017 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:21,204 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,205 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2020-12-24 03:24:21,207 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2020-12-24 03:24:21,207 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:21,242 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,243 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2020-12-24 03:24:21,246 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2020-12-24 03:24:21,246 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:21,465 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,466 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2020-12-24 03:24:21,468 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2020-12-24 03:24:21,468 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:21,532 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2020-12-24 03:24:21,535 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2020-12-24 03:24:21,535 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:21,666 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,666 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2020-12-24 03:24:21,669 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2020-12-24 03:24:21,669 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:21,688 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,690 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2020-12-24 03:24:21,696 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2020-12-24 03:24:21,697 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:21,791 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:21,791 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2020-12-24 03:24:21,794 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2020-12-24 03:24:21,794 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:22,326 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,326 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2020-12-24 03:24:22,328 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2020-12-24 03:24:22,328 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:22,362 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,363 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2020-12-24 03:24:22,365 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2020-12-24 03:24:22,366 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:22,552 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,553 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2020-12-24 03:24:22,555 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2020-12-24 03:24:22,555 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:22,556 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,556 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2020-12-24 03:24:22,559 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2020-12-24 03:24:22,559 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:22,751 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,752 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2020-12-24 03:24:22,754 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2020-12-24 03:24:22,754 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:22,896 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,897 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2020-12-24 03:24:22,899 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2020-12-24 03:24:22,900 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:22,950 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,951 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2020-12-24 03:24:22,954 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2020-12-24 03:24:22,954 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:22,992 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:22,992 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2020-12-24 03:24:22,995 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2020-12-24 03:24:22,995 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:23,512 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:23,513 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2020-12-24 03:24:23,515 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2020-12-24 03:24:23,515 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:23,569 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:23,569 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2020-12-24 03:24:23,571 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2020-12-24 03:24:23,572 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:24:23,768 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:23,769 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2020-12-24 03:24:23,771 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2020-12-24 03:24:23,771 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:24:23,840 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:23,840 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2020-12-24 03:24:23,843 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2020-12-24 03:24:23,843 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:24:23,850 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:23,851 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2020-12-24 03:24:23,859 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2020-12-24 03:24:23,860 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:24,055 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,055 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2020-12-24 03:24:24,058 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2020-12-24 03:24:24,059 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:24:24,164 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,165 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2020-12-24 03:24:24,167 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2020-12-24 03:24:24,167 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:24:24,219 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,220 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2020-12-24 03:24:24,223 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2020-12-24 03:24:24,223 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:24:24,516 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,517 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2020-12-24 03:24:24,520 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2020-12-24 03:24:24,520 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:24:24,527 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,527 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2020-12-24 03:24:24,779 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,779 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2020-12-24 03:24:24,846 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,846 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2020-12-24 03:24:24,849 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2020-12-24 03:24:24,849 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:24:24,916 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:24,916 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2020-12-24 03:24:25,077 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:25,078 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2020-12-24 03:24:25,164 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:25,165 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2020-12-24 03:24:25,185 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:25,185 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.
+2020-12-24 03:24:25,384 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:25,385 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2020-12-24 03:24:25,597 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:24:25,597 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2020-12-24 03:24:59,861 [MainThread] [INFO] Config loaded succesfully.
+2020-12-24 03:24:59,861 [MainThread] [INFO] Temp directory (./tmp) found.
+2020-12-24 03:24:59,862 [MainThread] [INFO] Directory (./tmp/images) found.
+2020-12-24 03:24:59,863 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2020-12-24 03:24:59,867 [MainThread] [INFO] File (./tmp/images/all\201763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,868 [MainThread] [INFO] File (./tmp/images/all\201763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,869 [MainThread] [INFO] File (./tmp/images/all\201763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,870 [MainThread] [INFO] File (./tmp/images/all\201763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,870 [MainThread] [INFO] File (./tmp/images/all\201763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,871 [MainThread] [INFO] File (./tmp/images/all\201763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,873 [MainThread] [INFO] File (./tmp/images/all\201763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,874 [MainThread] [INFO] File (./tmp/images/all\201763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,875 [MainThread] [INFO] File (./tmp/images/all\202363.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,876 [MainThread] [INFO] File (./tmp/images/all\202363.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,877 [MainThread] [INFO] File (./tmp/images/all\202363.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,878 [MainThread] [INFO] File (./tmp/images/all\202363.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,879 [MainThread] [INFO] File (./tmp/images/all\202363.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,880 [MainThread] [INFO] File (./tmp/images/all\202363.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,880 [MainThread] [INFO] File (./tmp/images/all\202363.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,881 [MainThread] [INFO] File (./tmp/images/all\202363.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,883 [MainThread] [INFO] File (./tmp/images/all\202963.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,884 [MainThread] [INFO] File (./tmp/images/all\202963.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,885 [MainThread] [INFO] File (./tmp/images/all\202963.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,886 [MainThread] [INFO] File (./tmp/images/all\202963.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,887 [MainThread] [INFO] File (./tmp/images/all\202963.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,888 [MainThread] [INFO] File (./tmp/images/all\202963.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,888 [MainThread] [INFO] File (./tmp/images/all\202963.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,889 [MainThread] [INFO] File (./tmp/images/all\202963.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,890 [MainThread] [INFO] File (./tmp/images/all\203563.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,891 [MainThread] [INFO] File (./tmp/images/all\203563.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,891 [MainThread] [INFO] File (./tmp/images/all\203563.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,892 [MainThread] [INFO] File (./tmp/images/all\203563.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,896 [MainThread] [INFO] File (./tmp/images/all\203563.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,898 [MainThread] [INFO] File (./tmp/images/all\203563.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,899 [MainThread] [INFO] File (./tmp/images/all\203563.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,900 [MainThread] [INFO] File (./tmp/images/all\203563.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,900 [MainThread] [INFO] File (./tmp/images/all\204163.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,901 [MainThread] [INFO] File (./tmp/images/all\204163.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,902 [MainThread] [INFO] File (./tmp/images/all\204163.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,902 [MainThread] [INFO] File (./tmp/images/all\204163.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,903 [MainThread] [INFO] File (./tmp/images/all\204163.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,904 [MainThread] [INFO] File (./tmp/images/all\204163.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,906 [MainThread] [INFO] File (./tmp/images/all\204163.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,907 [MainThread] [INFO] File (./tmp/images/all\204163.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,907 [MainThread] [INFO] File (./tmp/images/all\204763.0_500353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,908 [MainThread] [INFO] File (./tmp/images/all\204763.0_500953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,909 [MainThread] [INFO] File (./tmp/images/all\204763.0_501553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,910 [MainThread] [INFO] File (./tmp/images/all\204763.0_502153.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,911 [MainThread] [INFO] File (./tmp/images/all\204763.0_502753.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,913 [MainThread] [INFO] File (./tmp/images/all\204763.0_503353.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,914 [MainThread] [INFO] File (./tmp/images/all\204763.0_503953.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,919 [MainThread] [INFO] File (./tmp/images/all\204763.0_504553.0_600.gdal.jpeg) Removed.
+2020-12-24 03:24:59,920 [MainThread] [INFO] Directory (./tmp/images/analyzed/set1) found.
+2020-12-24 03:24:59,920 [MainThread] [INFO] Directory (./tmp/images/analyzed/set2) found.
+2020-12-24 03:24:59,921 [MainThread] [INFO] Directory (./tmp/index) found.
+2020-12-24 03:24:59,922 [MainThread] [INFO] Directory (./tmp/xml) found.
+2020-12-24 03:24:59,922 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2020-12-24 03:24:59,923 [MainThread] [INFO] All directories created/emptied succesfully.
+2020-12-24 03:24:59,923 [MainThread] [INFO] 12/16 threads allocated.
+2020-12-24 03:25:00,039 [Thread-0] [INFO] Starting download Thread-0
+2020-12-24 03:25:00,040 [Thread-1] [INFO] Starting download Thread-1
+2020-12-24 03:25:00,040 [Thread-2] [INFO] Starting download Thread-2
+2020-12-24 03:25:00,041 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2020-12-24 03:25:00,041 [Thread-3] [INFO] Starting download Thread-3
+2020-12-24 03:25:00,041 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:00,041 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2020-12-24 03:25:00,042 [Thread-4] [INFO] Starting download Thread-4
+2020-12-24 03:25:00,042 [Thread-5] [INFO] Starting download Thread-5
+2020-12-24 03:25:00,042 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2020-12-24 03:25:00,043 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:00,044 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2020-12-24 03:25:00,044 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:00,044 [Thread-6] [INFO] Starting download Thread-6
+2020-12-24 03:25:00,045 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2020-12-24 03:25:00,045 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:00,045 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2020-12-24 03:25:00,046 [Thread-7] [INFO] Starting download Thread-7
+2020-12-24 03:25:00,047 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:00,047 [Thread-8] [INFO] Starting download Thread-8
+2020-12-24 03:25:00,048 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:00,048 [Thread-9] [INFO] Starting download Thread-9
+2020-12-24 03:25:00,049 [Thread-10] [INFO] Starting download Thread-10
+2020-12-24 03:25:00,050 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2020-12-24 03:25:00,050 [Thread-11] [INFO] Starting download Thread-11
+2020-12-24 03:25:00,051 [MainThread] [INFO] All threads started
+2020-12-24 03:25:00,051 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2020-12-24 03:25:00,051 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:00,052 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:01,052 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,052 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2020-12-24 03:25:01,055 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2020-12-24 03:25:01,055 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:01,187 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,188 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2020-12-24 03:25:01,189 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2020-12-24 03:25:01,190 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:01,427 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,427 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2020-12-24 03:25:01,430 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2020-12-24 03:25:01,430 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:01,502 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,502 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2020-12-24 03:25:01,505 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2020-12-24 03:25:01,505 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:01,556 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,556 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2020-12-24 03:25:01,559 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2020-12-24 03:25:01,559 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:01,564 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,564 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2020-12-24 03:25:01,565 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,566 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2020-12-24 03:25:01,567 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2020-12-24 03:25:01,567 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:01,569 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2020-12-24 03:25:01,569 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:01,630 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:01,631 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2020-12-24 03:25:01,633 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2020-12-24 03:25:01,633 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:02,086 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,087 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2020-12-24 03:25:02,089 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2020-12-24 03:25:02,089 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:02,229 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,229 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2020-12-24 03:25:02,232 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2020-12-24 03:25:02,232 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:02,290 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,290 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2020-12-24 03:25:02,293 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2020-12-24 03:25:02,293 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:02,399 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,400 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2020-12-24 03:25:02,402 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2020-12-24 03:25:02,402 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:02,694 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,695 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2020-12-24 03:25:02,697 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2020-12-24 03:25:02,697 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:02,863 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,864 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2020-12-24 03:25:02,867 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2020-12-24 03:25:02,867 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:02,922 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:02,923 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2020-12-24 03:25:02,925 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2020-12-24 03:25:02,925 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:03,099 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,099 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2020-12-24 03:25:03,102 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2020-12-24 03:25:03,102 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:03,302 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,302 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2020-12-24 03:25:03,305 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2020-12-24 03:25:03,305 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:03,487 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,488 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2020-12-24 03:25:03,490 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2020-12-24 03:25:03,491 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:03,528 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,528 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2020-12-24 03:25:03,531 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2020-12-24 03:25:03,531 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:03,623 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,623 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2020-12-24 03:25:03,626 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2020-12-24 03:25:03,626 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:03,753 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,753 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2020-12-24 03:25:03,756 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2020-12-24 03:25:03,757 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:03,842 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:03,842 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2020-12-24 03:25:03,845 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2020-12-24 03:25:03,845 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:04,069 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,069 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2020-12-24 03:25:04,071 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2020-12-24 03:25:04,072 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:04,206 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,212 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2020-12-24 03:25:04,221 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2020-12-24 03:25:04,221 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:04,418 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,419 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2020-12-24 03:25:04,424 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2020-12-24 03:25:04,425 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:04,581 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,581 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2020-12-24 03:25:04,588 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2020-12-24 03:25:04,588 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:04,640 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,641 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2020-12-24 03:25:04,643 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2020-12-24 03:25:04,644 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:04,811 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,811 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2020-12-24 03:25:04,814 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2020-12-24 03:25:04,814 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:04,880 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:04,881 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2020-12-24 03:25:04,884 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2020-12-24 03:25:04,884 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:05,013 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,014 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2020-12-24 03:25:05,016 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2020-12-24 03:25:05,016 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:05,196 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,197 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2020-12-24 03:25:05,200 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2020-12-24 03:25:05,200 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:05,324 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,325 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2020-12-24 03:25:05,328 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2020-12-24 03:25:05,328 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2020-12-24 03:25:05,511 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,512 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2020-12-24 03:25:05,515 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2020-12-24 03:25:05,515 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:05,541 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,541 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2020-12-24 03:25:05,544 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2020-12-24 03:25:05,544 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2020-12-24 03:25:05,719 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:05,719 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2020-12-24 03:25:05,721 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2020-12-24 03:25:05,722 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2020-12-24 03:25:06,041 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,042 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2020-12-24 03:25:06,045 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2020-12-24 03:25:06,045 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2020-12-24 03:25:06,053 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,054 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2020-12-24 03:25:06,057 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2020-12-24 03:25:06,057 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2020-12-24 03:25:06,152 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,152 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2020-12-24 03:25:06,155 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2020-12-24 03:25:06,155 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2020-12-24 03:25:06,276 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,277 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2020-12-24 03:25:06,485 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,486 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2020-12-24 03:25:06,489 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2020-12-24 03:25:06,489 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2020-12-24 03:25:06,605 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,606 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2020-12-24 03:25:06,606 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,607 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2020-12-24 03:25:06,609 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2020-12-24 03:25:06,609 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2020-12-24 03:25:06,690 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:06,690 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2020-12-24 03:25:07,042 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:07,042 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2020-12-24 03:25:07,143 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:07,143 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2020-12-24 03:25:07,186 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:07,187 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2020-12-24 03:25:07,379 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:07,380 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2020-12-24 03:25:07,548 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2020-12-24 03:25:07,549 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.

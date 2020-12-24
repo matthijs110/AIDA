@@ -9,6 +9,14 @@ import directory
 import multiprocessing
 import status
 import time
+import sys
+import numpy
+import imageRange
+import downloader
+import progressBar
+import threadsHelper
+
+stdoutHandler = log.StreamHandler(sys.stdout)
 
 def main():
     # Setting up parser with all arguments
@@ -18,12 +26,26 @@ def main():
     parser.add_argument('config', help='imports a configuration file')
     args = parser.parse_args()
 
+    # Setup logging
+    root = log.getLogger()
+    root.setLevel(log.DEBUG)
+
     # If verbose flag is true change logging config to debug level so info is showed.
     if args.verbose:
-        log.basicConfig(format="%(levelname)s: %(message)s", level=log.DEBUG)
-        log.info("Verbose output.")
+        stdoutHandler.setLevel(log.DEBUG)
     else:
-        log.basicConfig(format="%(levelname)s: %(message)s")
+        stdoutHandler.setLevel(log.WARNING)
+
+    formatter = log.Formatter('[%(levelname)s] %(message)s')
+    stdoutHandler.setFormatter(formatter)
+    root.addHandler(stdoutHandler)
+
+    # Setup logging to file
+    fileHandler = log.FileHandler("debug.log")
+    fileHandler.setLevel(log.DEBUG)
+    formatter = log.Formatter('%(asctime)s [%(threadName)s] [%(levelname)s] %(message)s')
+    fileHandler.setFormatter(formatter)
+    root.addHandler(fileHandler)
 
     try:
         # Try to open config file
@@ -65,18 +87,43 @@ def start(config):
 
     log.info("All directories created/emptied succesfully.")
 
+    # Check if threads are avaiable
     max_threads = multiprocessing.cpu_count() * 2
-
     if(int(config["threads"]) > max_threads):
         log.error("Trying to allocate too many threads. MAX: " + str(max_threads))
         exit()
 
     log.info(f"{config['threads']}/{max_threads} threads allocated.")
 
+    # Remove logging to stdout
+    log.getLogger().removeHandler(stdoutHandler)
+
     print("Starting downloader...")
-    #time.sleep(1)
+    time.sleep(0)
 
-    status.updateStatus()
+    # Get range for temp images
+    temp_range = imageRange.get_range(
+        mode = "bbox", 
+        config = config, 
+        size = config['image']['tempsize'])
 
+    # Create threads
+    image_directory = f"{config['tmpdirectory']}/images/all"
+    threads = threadsHelper.create(temp_range, image_directory, config['image']['tempsize'], config)
+
+    # Get total number of images and initialize status
+    total_number_of_images = threadsHelper.get_total(threads)
+    pbTotal = status.init(total_number_of_images)
+
+    # Add progress bar to each thread
+    threadsHelper.add_progress_bar(threads)
+
+    # Add total progress bar to each thread
+    threadsHelper.add_total_progress_bar(threads, pbTotal)
+
+    # Start threads
+    threadsHelper.start(threads)
+
+    log.info("All threads started")
 
 main()
