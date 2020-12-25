@@ -15,6 +15,7 @@ import imageRange
 import downloader
 import progressBar
 import threadsHelper
+import threading
 
 stdoutHandler = log.StreamHandler(sys.stdout)
 
@@ -70,9 +71,6 @@ def main():
         log.error(e)
         exit()
     
-    start(config)
-
-def start(config):
     log.info("Config loaded succesfully.")
 
     # Create or emtpy all directories
@@ -86,6 +84,14 @@ def start(config):
     directory.check(config["image"]["directory"], "Image directory")
 
     log.info("All directories created/emptied succesfully.")
+
+    # bla
+    tempsize = int(config["image"]["tempsize"])
+    size = int(config["image"]["size"])
+    if((not (tempsize / size).is_integer()) or tempsize <= 0 or size <= 0):
+        log.error("Image size/tempsize are incorrect. Please review your input and check the documentation.")
+        exit()
+
 
     # Check if threads are avaiable
     max_threads = multiprocessing.cpu_count() * 2
@@ -107,23 +113,53 @@ def start(config):
         config = config, 
         size = config['image']['tempsize'])
 
+    # Create printing thread
+    print_queue = status.printQueue()
+
     # Create threads
     image_directory = f"{config['tmpdirectory']}/images/all"
     threads = threadsHelper.create(temp_range, image_directory, config['image']['tempsize'], config)
 
-    # Get total number of images and initialize status
+    # Initialize status
     total_number_of_images = threadsHelper.get_total(threads)
-    pbTotal = status.init(total_number_of_images)
+    pbTotal = status.init("Downloading images", total_number_of_images, print_queue)
 
     # Add progress bar to each thread
-    threadsHelper.add_progress_bar(threads)
+    threadsHelper.add_progress_bar(threads, print_queue)
 
     # Add total progress bar to each thread
     threadsHelper.add_total_progress_bar(threads, pbTotal)
 
     # Start threads
-    threadsHelper.start(threads)
 
+    print_queue.start()
+    threadsHelper.start(threads)
+  
     log.info("All threads started")
 
+    # Wait for download to be finished by looping until active threading count drops below 3.
+    try:
+        while threading.active_count() > 2:
+            pass
+    # When crtl + c is pressed end all threads and exit.
+    except (KeyboardInterrupt, SystemExit):
+        log.error("EXIT")
+        threadsHelper.stop(threads)
+        print_queue.stop()
+        exit()
+
+    time.sleep(1)
+    print_queue.stop()
+
+    log.info("Finished downloading temp images")
+
+    os.system('cls')
+
+    print("Finished downloading!")
+    print("Starting Anaylyzer...")
+
+    time.sleep(0)
+
+
+    
 main()

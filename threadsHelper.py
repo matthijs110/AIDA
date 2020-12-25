@@ -22,7 +22,7 @@ def get_total(threads):
 
     return total
 
-def add_progress_bar(threads):
+def add_progress_bar(threads, printQueue):
     for thread in threads:
 
         prefix = f"{thread.name} progress: "
@@ -30,7 +30,7 @@ def add_progress_bar(threads):
         if(len(thread.name) == 9):
             prefix = prefix.strip()
 
-        pb = progressBar.progressBar(line=status.bottomLine, total=thread.getNumberOfImages(), prefix=prefix, suffix="Complete", lenght=50)
+        pb = progressBar.progressBar(line=status.bottomLine, total=thread.getNumberOfImages(), prefix=prefix, suffix="Complete", lenght=50, printQueue=printQueue)
         thread.setProgressBar(pb)
         status.bottomLine = status.bottomLine + 1
 
@@ -41,3 +41,7 @@ def add_total_progress_bar(threads, pb):
 def start(threads):
     for thread in threads:
         thread.start()
+
+def stop(threads):
+    for thread in threads:
+        thread.stop()

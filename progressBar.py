@@ -1,13 +1,14 @@
 import sys
 
 class progressBar:
-    def __init__(self, line, total, prefix, suffix, lenght):
+    def __init__(self, line, total, prefix, suffix, lenght, printQueue):
         self.__line = line
         self.__iteration = 0
         self.__total = total
         self.__prefix = prefix
         self.__suffix = suffix
         self.__length = lenght
+        self.__printQueue = printQueue
         self.__printProgressBar()
 
     def getProgressBar(self):
@@ -22,7 +23,6 @@ class progressBar:
         self.__printProgressBar()
 
     def __printProgressBar(self):
-        move(self.__line, 0)
         
         if(self.__total < 1):
             percent = 100.0
@@ -33,8 +33,4 @@ class progressBar:
             filledLength = int(self.__length * self.__iteration // self.__total)
             bar = '█' * filledLength + '-' * (self.__length - filledLength)
 
-        print(f'\r{self.__prefix} |{bar}| {self.__iteration}/{self.__total} | {percent}% {self.__suffix}')
-
-def move (y, x):
-    sys.stdout.write("\033[%d;%dH" % (y, x))
-    sys.stdout.flush()
+        self.__printQueue.enqueue(f'\r{self.__prefix} |{bar}| {self.__iteration}/{self.__total} | {percent}% {self.__suffix}', self.__line)
