@@ -26,6 +26,8 @@ def analyze(config, pbTotal):
 
     images = list(source_path.glob('*.jpeg'))
 
+    number_of_images = 0
+
     for image in images:
 
         if(os.stat(image).st_size > 5000):
@@ -44,7 +46,10 @@ def analyze(config, pbTotal):
 
             if class_names[np.argmax(score)] == 'set1':
                 shutil.copy(image, img_dest_path)
+                number_of_images = number_of_images + 1
 
         pbTotal.increment()
         # print("x")
+    
+    return number_of_images
 

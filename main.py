@@ -22,16 +22,63 @@ import schemas
 import yaml
 import argparse
 import indexer
+import report
+from datetime import datetime
 
 stdoutHandler = log.StreamHandler(sys.stdout)
+VERSION = "1.0.0-dev"
 
 def main():
+    start_time = datetime.now()
+
+    args = setup_parser()
+    setup_logging(args)
+    config = get_configuration(args)
+    check_config(config)
+
+    # Remove logging to stdout
+    log.getLogger().removeHandler(stdoutHandler)
+
+    number_temp_of_images = download_temp_images(config)
+    number_of_buildup_images = analyze_images(config, number_temp_of_images)
+    number_of_images = index_images(config)
+    download_final_images(config)
+
+    end_time = datetime.now()
+    total_time = end_time - start_time
+
+    data = {
+        "number_of_analyzed_images": number_temp_of_images,
+        "number_of_images": number_of_images,
+        "number_of_buildup_images": number_of_buildup_images,
+        "total_time": str(total_time).split(".")[0],
+        "version": VERSION
+    }
+
+    print_end_report(config, data)
+
+def setup_parser():
+    """Sets up the parser
+
+    Returns:
+        args: args
+    """
+
     # Setting up parser with all arguments
     parser = argparse.ArgumentParser(description='Download and analyze arial imagery.', prog='AIDA')
-    parser.add_argument('--version', action='version', version='%(prog)s 1.0.0-dev')
+    parser.add_argument('--version', action='version', version='%(prog)s '+ VERSION)
     parser.add_argument('-v', "--verbose", action="store_true", help="run progam in verbose mode")
     parser.add_argument('config', help='imports a configuration file')
     args = parser.parse_args()
+    
+    return args
+
+def setup_logging(args):
+    """Sets logging
+
+    Returns:
+        args: args
+    """
 
     # Setup logging
     root = log.getLogger()
@@ -53,6 +100,17 @@ def main():
     formatter = log.Formatter('%(asctime)s [%(threadName)s] [%(levelname)s] %(message)s')
     fileHandler.setFormatter(formatter)
     root.addHandler(fileHandler)
+
+
+def get_configuration(args):
+    """Returns config and validates config
+
+    Args:
+        args (args): args from parser
+
+    Returns:
+        object: Configuration json object
+    """
 
     try:
         # Try to open config file
@@ -79,6 +137,16 @@ def main():
 
     log.info("Config loaded succesfully.")
 
+    return config
+
+
+def check_config(config):
+    """Prepares folders and checks if configuration is set correctly
+
+    Args:
+        config (object): configuration json object
+    """
+
     # Create or emtpy all directories
     directory.check(config["tmpdirectory"], "Temp directory")
     directory.create_or_empty(f"{config['tmpdirectory']}/images")
@@ -89,6 +157,11 @@ def main():
     directory.check(config["image"]["directory"], "Image directory")
 
     log.info("All directories created/emptied succesfully.")
+
+    # Check if Projection is correct
+    if(config["image"]["projection"] != "EPSG:28992"):
+        log.error("Projection is not set to EPSG:28992. In this version of AIDA you must use EPSG:28992. Please review your config file.")
+        exit()
 
     # Check if tempsize and image size are ok
     tempsize = int(config["image"]["tempsize"])
@@ -106,11 +179,15 @@ def main():
 
     log.info(f"{config['threads']}/{max_threads} threads allocated.")
 
-    # Remove logging to stdout
-    log.getLogger().removeHandler(stdoutHandler)
+def download_temp_images(config):
+    """Downloads the temp images data set
+
+    Args:
+        config (object): configuration json object
+    """
 
     print("Starting downloader...")
-    time.sleep(0)
+    time.sleep(1)
 
     # Get range for temp images
     temp_range = imageRange.get_range(
@@ -157,47 +234,73 @@ def main():
     time.sleep(1)
     print_queue.stop()
 
+    os.system('cls')
+    print("Finished downloading!")
     log.info("Finished downloading temp images")
 
-    os.system('cls')
+    return total_number_of_images
 
-    print("Finished downloading!")
+def analyze_images(config, total_number_of_images):
+    """Analyzes the images using machine learning
+
+    Args:
+        config (object): configuration json object
+    """
+
     print("Starting Anaylyzer...")
-
-    time.sleep(0)
+    log.info("Analyzer started")
+    time.sleep(1)
 
     # Initialize status
     pbTotal = status.init("Analyzing images",
                           total_number_of_images, "NOQUEUE")
     status.bottomLine = 18
 
+    number_of_images = 0 
+
+    # Analyze images
     try:
-        analyzer.analyze(config, pbTotal)
+        number_of_images = analyzer.analyze(config, pbTotal)
     except (KeyboardInterrupt, SystemExit):
         log.error("EXIT")
         exit()
 
     time.sleep(1)
-    log.info("Finished analyzing images")
+
     os.system('cls')
+    log.info("Finished analyzing images")
     print("Finished analyzing images!")
 
-    # Indexing images
-    time.sleep(1)
-    os.system('cls')
+    return number_of_images
 
-    log.info("Start indexing images")
+def index_images(config):
+    """Indexes the analyzed images
+
+    Args:
+        config (object): configuration json object
+    """
+  
+    os.system('cls')
     print("Indexing images...")
-    indexer.index(config)
-    log.info("Finished indexing images")
+    log.info("Start indexing images")
+
+    number_of_images = indexer.index(config)
+
     print("Finished indexing images!")
-
+    log.info("Finished indexing images")
     time.sleep(1)
-    os.system('cls')
 
-    # Downloading final image set
+    return number_of_images
+
+def download_final_images(config):
+    """Downloads the final images data set
+
+    Args:
+        config (object): configuration json object
+    """
 
     print("Starting downloader...")
+    log.info("Downloading of final images started")
     time.sleep(1)
 
     # Create image range
@@ -246,9 +349,17 @@ def main():
     print_queue.stop()
 
     log.info("Finished downloading images!")
+    time.sleep(1)
+
+def print_end_report(config, data):
+    """Prints report
+
+    Args:
+        config (object): configuration json object
+    """
 
     os.system('cls')
 
-    print("AIDA Finished!")
-
+    report.print_report(config, data)
+    
 main()

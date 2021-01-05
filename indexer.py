@@ -10,6 +10,8 @@ def index(config):
     size = config['image']['size']
     outputFile = f"{config['tmpdirectory']}/index/index.csv"
 
+    number_of_images = 0
+
     f = open(outputFile, "w")
 
     for image in images:
@@ -24,8 +26,10 @@ def index(config):
         for west in west_range:
             for south in south_range:
                     f.write(f"{west},{south}\n")
+                    number_of_images = number_of_images + 1
 
     f.close()
+    return number_of_images
 
 def arange(start, stop, step):
     current = start
