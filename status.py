@@ -39,7 +39,7 @@ class printQueue(threading.Thread):
         self.name = "PrintQueueThread"
         self.__queue = list()
         self.__running = True
-        log.info("Stated printQueueThread")
+        log.info("Started printQueueThread")
 
     def enqueue(self, msg, line):
         self.__queue.append((msg, line))

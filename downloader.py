@@ -47,13 +47,22 @@ class downloadThread (threading.Thread):
 
             if(not self.running):
                 return
-
+            
             # Split west and south
             west = float(west_south.split(",")[0])
             south = float(west_south.split(",")[1])
 
+            # Create Filenames
             filename = f"{image_directory}/{west}_{south}_{size}.gdal.{config['service']['format']}"
             tmpfilename = f"{config['tmpdirectory']}/xml/{west}-{south}.xml"
+
+            # If file exists, skip.
+            if(os.path.isfile(filename)):
+                numOfDownloadedImages = numOfDownloadedImages + 1
+                self.totalProgessBar.increment()
+                self.updateProgressBar(numOfDownloadedImages)
+                log.info(f"Skipping download of ({filename}). File already exists.")
+                continue
 
             # Set XML Parameters
             xml_params = {

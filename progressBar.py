@@ -22,15 +22,25 @@ class progressBar:
         self.__iteration = self.__iteration + 1
         self.__printProgressBar()
 
+    def __moveLine(self, line):
+        sys.stdout.write("\033[%d;%dH" % (line, 0))
+        sys.stdout.flush()
+
     def __printProgressBar(self):
-        
+
         if(self.__total < 1):
             percent = 100.0
             filledLength = int(self.__length * 1)
             bar = '█' * filledLength
-        else: 
+        else:
             percent = ("{0:.1f}").format(100 * (self.__iteration / float(self.__total)))
             filledLength = int(self.__length * self.__iteration // self.__total)
             bar = '█' * filledLength + '-' * (self.__length - filledLength)
 
-        self.__printQueue.enqueue(f'\r{self.__prefix} |{bar}| {self.__iteration}/{self.__total} | {percent}% {self.__suffix}', self.__line)
+        if(self.__printQueue == "NOQUEUE"):
+            self.__moveLine(self.__line)
+            print(
+                f'\r{self.__prefix} |{bar}| {self.__iteration}/{self.__total} | {percent}% {self.__suffix}')
+        else:
+            self.__printQueue.enqueue(
+                f'\r{self.__prefix} |{bar}| {self.__iteration}/{self.__total} | {percent}% {self.__suffix}', self.__line)

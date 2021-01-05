@@ -77,6 +77,20 @@ yml_schema = {
             }
         }
     },
+    'analyzer': {
+        'required': True,
+        'type': 'dict',
+        'schema': {
+            'modelpath': {
+                'required': True,
+                'type': 'string'
+            },
+            'use-gpu': {
+                'required': True,
+                'type': 'boolean'
+            }
+        }
+    },
     'timeout': {
         'required': True,
         'type': 'number'

@@ -32,11 +32,15 @@ def check(directory, name):
         log.info(f"{name} ({directory}) found.")
 
 def create(directory):
-    try:
-        os.makedirs(directory)
-        log.info(f"Directory ({directory}) created successfully")
-    except OSError as e:
-        log.error(f"Could not create directory ({directory})")
-        log.info(e)
-        log.error("Exiting...")
-        exit()
+    if(not os.path.isdir(directory)):
+        try:
+            os.makedirs(directory)
+            log.info(f"Directory ({directory}) created successfully")
+        except OSError as e:
+            log.error(f"Could not create directory ({directory})")
+            log.info(e)
+            log.error("Exiting...")
+            exit()
+    else:
+        log.info(f"Directory ({directory}) found.")
+

@@ -1,21 +1,27 @@
-import argparse
 import os
-import yaml
-import schemas
-import logging as log
-import glob
-from cerberus import Validator
-import directory
-import multiprocessing
-import status
-import time
-import sys
-import numpy
-import imageRange
-import downloader
-import progressBar
-import threadsHelper
+import warnings
+warnings.filterwarnings("ignore")
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
+import analyzer
 import threading
+import threadsHelper
+import progressBar
+import downloader
+import imageRange
+import numpy
+import sys
+import time
+import status
+import multiprocessing
+import directory
+from cerberus import Validator
+import glob
+import logging as log
+import schemas
+import yaml
+import argparse
+import indexer
 
 stdoutHandler = log.StreamHandler(sys.stdout)
 
@@ -70,28 +76,27 @@ def main():
         log.error("File can be found, but something went wrong.")
         log.error(e)
         exit()
-    
+
     log.info("Config loaded succesfully.")
 
     # Create or emtpy all directories
     directory.check(config["tmpdirectory"], "Temp directory")
     directory.create_or_empty(f"{config['tmpdirectory']}/images")
-    directory.create_or_empty(f"{config['tmpdirectory']}/images/all")
-    directory.create_or_empty(f"{config['tmpdirectory']}/images/analyzed/set1")
-    directory.create_or_empty(f"{config['tmpdirectory']}/images/analyzed/set2")
+    directory.create(f"{config['tmpdirectory']}/images/all")
+    directory.create_or_empty(f"{config['tmpdirectory']}/images/filtered")
     directory.create_or_empty(f"{config['tmpdirectory']}/index")
     directory.create_or_empty(f"{config['tmpdirectory']}/xml")
     directory.check(config["image"]["directory"], "Image directory")
 
     log.info("All directories created/emptied succesfully.")
 
-    # bla
+    # Check if tempsize and image size are ok
     tempsize = int(config["image"]["tempsize"])
     size = int(config["image"]["size"])
     if((not (tempsize / size).is_integer()) or tempsize <= 0 or size <= 0):
-        log.error("Image size/tempsize are incorrect. Please review your input and check the documentation.")
+        log.error(
+            "Image size/tempsize are incorrect. Please review your input and check the documentation.")
         exit()
-
 
     # Check if threads are avaiable
     max_threads = multiprocessing.cpu_count() * 2
@@ -109,20 +114,22 @@ def main():
 
     # Get range for temp images
     temp_range = imageRange.get_range(
-        mode = "bbox", 
-        config = config, 
-        size = config['image']['tempsize'])
+        mode="bbox",
+        config=config,
+        size=config['image']['tempsize'])
 
     # Create printing thread
     print_queue = status.printQueue()
 
     # Create threads
     image_directory = f"{config['tmpdirectory']}/images/all"
-    threads = threadsHelper.create(temp_range, image_directory, config['image']['tempsize'], config)
+    threads = threadsHelper.create(
+        temp_range, image_directory, config['image']['tempsize'], config)
 
     # Initialize status
     total_number_of_images = threadsHelper.get_total(threads)
-    pbTotal = status.init("Downloading images", total_number_of_images, print_queue)
+    pbTotal = status.init("Downloading temp images",
+                          total_number_of_images, print_queue)
 
     # Add progress bar to each thread
     threadsHelper.add_progress_bar(threads, print_queue)
@@ -131,10 +138,9 @@ def main():
     threadsHelper.add_total_progress_bar(threads, pbTotal)
 
     # Start threads
-
     print_queue.start()
     threadsHelper.start(threads)
-  
+
     log.info("All threads started")
 
     # Wait for download to be finished by looping until active threading count drops below 3.
@@ -160,6 +166,89 @@ def main():
 
     time.sleep(0)
 
+    # Initialize status
+    pbTotal = status.init("Analyzing images",
+                          total_number_of_images, "NOQUEUE")
+    status.bottomLine = 18
 
-    
+    try:
+        analyzer.analyze(config, pbTotal)
+    except (KeyboardInterrupt, SystemExit):
+        log.error("EXIT")
+        exit()
+
+    time.sleep(1)
+    log.info("Finished analyzing images")
+    os.system('cls')
+    print("Finished analyzing images!")
+
+    # Indexing images
+    time.sleep(1)
+    os.system('cls')
+
+    log.info("Start indexing images")
+    print("Indexing images...")
+    indexer.index(config)
+    log.info("Finished indexing images")
+    print("Finished indexing images!")
+
+    time.sleep(1)
+    os.system('cls')
+
+    # Downloading final image set
+
+    print("Starting downloader...")
+    time.sleep(1)
+
+    # Create image range
+    image_range = imageRange.get_range(
+        mode="indexFile",
+        config=config,
+        size=0)
+
+    # Create printing thread
+    print_queue = status.printQueue()
+
+    # Create threads
+    image_directory = config['image']['directory']
+    threads = threadsHelper.create(
+        image_range, image_directory, config['image']['size'], config)
+
+    # Initialize status
+    total_number_of_images = threadsHelper.get_total(threads)
+    pbTotal = status.init("Downloading images",
+                          total_number_of_images, print_queue)
+
+    # Add progress bar to each thread
+    threadsHelper.add_progress_bar(threads, print_queue)
+
+    # Add total progress bar to each thread
+    threadsHelper.add_total_progress_bar(threads, pbTotal)
+
+    # Start threads
+    print_queue.start()
+    threadsHelper.start(threads)
+
+    log.info("All threads started")
+
+    # Wait for download to be finished by looping until active threading count drops below 3.
+    try:
+        while threading.active_count() > 2:
+            pass
+    # When crtl + c is pressed end all threads and exit.
+    except (KeyboardInterrupt, SystemExit):
+        log.error("EXIT")
+        threadsHelper.stop(threads)
+        print_queue.stop()
+        exit()
+
+    time.sleep(1)
+    print_queue.stop()
+
+    log.info("Finished downloading images!")
+
+    os.system('cls')
+
+    print("AIDA Finished!")
+
 main()

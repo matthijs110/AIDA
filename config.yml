@@ -19,6 +19,10 @@ image:
   directory: C:\Users\luukw\Desktop\nederland_500
   projection: EPSG:28992
 
+analyzer:
+  modelpath: model4/saved_model.pb
+  use-gpu: false
+
 timeout: 300
 bandscount: 3
 tmpdirectory: ./tmp
