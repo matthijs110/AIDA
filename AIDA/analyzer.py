@@ -20,9 +20,8 @@ def analyze(config, pbTotal):
     img_dest_path = pathlib.Path(f"{config['tmpdirectory']}/images/filtered/")
 
     np.set_printoptions(suppress=True)
-    # only use model2 or model4
 
-    model = tensorflow.keras.models.load_model('model4')
+    model = tensorflow.keras.models.load_model(config['analyzer']['modelpath'])
 
     images = list(source_path.glob('*.jpeg'))
 

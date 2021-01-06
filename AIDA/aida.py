@@ -3,30 +3,32 @@ import warnings
 warnings.filterwarnings("ignore")
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-import analyzer
+import analyzer 
+import downloader 
+import progressBar 
+import imageRange 
+import directory 
+import indexer 
+import report 
+import schemas 
+import threadsHelper 
+
 import threading
-import threadsHelper
-import progressBar
-import downloader
-import imageRange
 import numpy
 import sys
 import time
 import status
 import multiprocessing
-import directory
 from cerberus import Validator
 import glob
 import logging as log
-import schemas
 import yaml
 import argparse
-import indexer
-import report
 from datetime import datetime
+import shutil
 
 stdoutHandler = log.StreamHandler(sys.stdout)
-VERSION = "1.0.0-dev"
+VERSION = "1.0.0"
 
 def main():
     start_time = datetime.now()
@@ -39,11 +41,22 @@ def main():
     # Remove logging to stdout
     log.getLogger().removeHandler(stdoutHandler)
 
+    # Download temp images
     number_temp_of_images = download_temp_images(config)
+
+    # Analyze images
     number_of_buildup_images = analyze_images(config, number_temp_of_images)
+
+    # Index build-up images
     number_of_images = index_images(config)
+
+    # Download final images
     download_final_images(config)
 
+    # Clean up
+    clean_up(config)
+
+    # End
     end_time = datetime.now()
     total_time = end_time - start_time
 
@@ -56,6 +69,7 @@ def main():
     }
 
     print_end_report(config, data)
+    log.info("Finished.")
 
 def setup_parser():
     """Sets up the parser
@@ -361,5 +375,15 @@ def print_end_report(config, data):
     os.system('cls')
 
     report.print_report(config, data)
+
+def clean_up(config):
+    log.info("Cleaning up")
+
+    try:
+        shutil.rmtree(f"{config['tmpdirectory']}/images")
+        shutil.rmtree(f"{config['tmpdirectory']}/index")
+        shutil.rmtree(f"{config['tmpdirectory']}/xml")
+    except:
+        log.error("Somthing went wrong while cleaning up files. You may have to manualy remove the contents of the tmp directory.")
     
 main()

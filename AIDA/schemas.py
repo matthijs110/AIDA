@@ -85,10 +85,6 @@ yml_schema = {
                 'required': True,
                 'type': 'string'
             },
-            'use-gpu': {
-                'required': True,
-                'type': 'boolean'
-            }
         }
     },
     'timeout': {

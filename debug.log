@@ -13105,3 +13105,1305 @@
 2021-01-05 22:27:26,003 [MainThread] [INFO] Stopping printQueueThread.
 2021-01-05 22:27:26,003 [MainThread] [INFO] Finished downloading images!
 2021-01-05 22:27:26,003 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:56:28,876 [MainThread] [INFO] Config loaded succesfully.
+2021-01-06 23:56:28,876 [MainThread] [INFO] Temp directory (./tmp) found.
+2021-01-06 23:56:28,877 [MainThread] [INFO] Directory (./tmp/images) found.
+2021-01-06 23:56:28,877 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2021-01-06 23:56:28,877 [MainThread] [INFO] Directory (./tmp/images/filtered) found.
+2021-01-06 23:56:28,879 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,880 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,880 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,881 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,881 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,882 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,882 [MainThread] [INFO] File (./tmp/images/filtered\201763.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,882 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,883 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,883 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,884 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,884 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,885 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,885 [MainThread] [INFO] File (./tmp/images/filtered\202363.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,886 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_500353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,886 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,887 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,887 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,887 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,888 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,888 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,888 [MainThread] [INFO] File (./tmp/images/filtered\202963.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,889 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_500353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,889 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,890 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,890 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,890 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,891 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,891 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,891 [MainThread] [INFO] File (./tmp/images/filtered\203563.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,892 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_500353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,892 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,892 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,892 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,893 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,893 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,893 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,894 [MainThread] [INFO] File (./tmp/images/filtered\204163.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,894 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_500353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,894 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_500953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,895 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_501553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,895 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_502153.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,895 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_502753.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,896 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_503353.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,896 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_503953.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,898 [MainThread] [INFO] File (./tmp/images/filtered\204763.0_504553.0_600.gdal.jpeg) Removed.
+2021-01-06 23:56:28,898 [MainThread] [INFO] Directory (./tmp/index) found.
+2021-01-06 23:56:28,898 [MainThread] [INFO] File (./tmp/index\index.csv) Removed.
+2021-01-06 23:56:28,899 [MainThread] [INFO] Directory (./tmp/xml) found.
+2021-01-06 23:56:28,899 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2021-01-06 23:56:28,899 [MainThread] [INFO] All directories created/emptied succesfully.
+2021-01-06 23:56:28,899 [MainThread] [INFO] 12/32 threads allocated.
+2021-01-06 23:56:29,900 [MainThread] [INFO] Started printQueueThread
+2021-01-06 23:56:29,934 [Thread-0] [INFO] Starting download Thread-0
+2021-01-06 23:56:29,934 [Thread-1] [INFO] Starting download Thread-1
+2021-01-06 23:56:29,934 [Thread-0] [INFO] Skipping download of (./tmp/images/all/201763.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,934 [Thread-2] [INFO] Starting download Thread-2
+2021-01-06 23:56:29,935 [Thread-1] [INFO] Skipping download of (./tmp/images/all/201763.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,935 [Thread-3] [INFO] Starting download Thread-3
+2021-01-06 23:56:29,935 [Thread-0] [INFO] Skipping download of (./tmp/images/all/202363.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,935 [Thread-2] [INFO] Skipping download of (./tmp/images/all/201763.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,935 [Thread-4] [INFO] Starting download Thread-4
+2021-01-06 23:56:29,935 [Thread-1] [INFO] Skipping download of (./tmp/images/all/202363.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,935 [Thread-5] [INFO] Starting download Thread-5
+2021-01-06 23:56:29,935 [Thread-3] [INFO] Skipping download of (./tmp/images/all/201763.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,935 [Thread-0] [INFO] Skipping download of (./tmp/images/all/202963.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,936 [Thread-6] [INFO] Starting download Thread-6
+2021-01-06 23:56:29,936 [Thread-2] [INFO] Skipping download of (./tmp/images/all/202363.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,936 [Thread-7] [INFO] Starting download Thread-7
+2021-01-06 23:56:29,936 [Thread-4] [INFO] Skipping download of (./tmp/images/all/201763.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,936 [Thread-1] [INFO] Skipping download of (./tmp/images/all/202963.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,936 [Thread-8] [INFO] Starting download Thread-8
+2021-01-06 23:56:29,936 [Thread-5] [INFO] Skipping download of (./tmp/images/all/201763.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,936 [Thread-3] [INFO] Skipping download of (./tmp/images/all/202363.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,937 [Thread-9] [INFO] Starting download Thread-9
+2021-01-06 23:56:29,937 [Thread-0] [INFO] Skipping download of (./tmp/images/all/203563.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,937 [Thread-10] [INFO] Starting download Thread-10
+2021-01-06 23:56:29,937 [Thread-6] [INFO] Skipping download of (./tmp/images/all/201763.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,937 [Thread-2] [INFO] Skipping download of (./tmp/images/all/202963.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,937 [Thread-11] [INFO] Starting download Thread-11
+2021-01-06 23:56:29,937 [MainThread] [INFO] All threads started
+2021-01-06 23:56:29,937 [Thread-7] [INFO] Skipping download of (./tmp/images/all/201763.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,937 [Thread-4] [INFO] Skipping download of (./tmp/images/all/202363.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-1] [INFO] Skipping download of (./tmp/images/all/203563.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-5] [INFO] Skipping download of (./tmp/images/all/202363.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-3] [INFO] Skipping download of (./tmp/images/all/202963.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-0] [INFO] Skipping download of (./tmp/images/all/204163.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-6] [INFO] Skipping download of (./tmp/images/all/202363.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,938 [Thread-2] [INFO] Skipping download of (./tmp/images/all/203563.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,949 [Thread-7] [INFO] Skipping download of (./tmp/images/all/202363.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,973 [Thread-4] [INFO] Skipping download of (./tmp/images/all/202963.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,989 [Thread-1] [INFO] Skipping download of (./tmp/images/all/204163.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:29,999 [Thread-5] [INFO] Skipping download of (./tmp/images/all/202963.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,021 [Thread-3] [INFO] Skipping download of (./tmp/images/all/203563.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,031 [Thread-0] [INFO] Skipping download of (./tmp/images/all/204763.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,043 [Thread-6] [INFO] Skipping download of (./tmp/images/all/202963.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,065 [Thread-2] [INFO] Skipping download of (./tmp/images/all/204163.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,077 [Thread-7] [INFO] Skipping download of (./tmp/images/all/202963.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,088 [Thread-4] [INFO] Skipping download of (./tmp/images/all/203563.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,098 [Thread-1] [INFO] Skipping download of (./tmp/images/all/204763.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,115 [Thread-5] [INFO] Skipping download of (./tmp/images/all/203563.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,138 [Thread-3] [INFO] Skipping download of (./tmp/images/all/204163.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,160 [Thread-6] [INFO] Skipping download of (./tmp/images/all/203563.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,170 [Thread-2] [INFO] Skipping download of (./tmp/images/all/204763.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,184 [MainThread] [ERROR] EXIT
+2021-01-06 23:56:30,185 [Thread-7] [INFO] Skipping download of (./tmp/images/all/203563.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,185 [Thread-4] [INFO] Skipping download of (./tmp/images/all/204163.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,185 [Thread-5] [INFO] Skipping download of (./tmp/images/all/204163.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,185 [Thread-3] [INFO] Skipping download of (./tmp/images/all/204763.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,185 [Thread-6] [INFO] Skipping download of (./tmp/images/all/204163.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,185 [MainThread] [INFO] Stopping Thread-0.
+2021-01-06 23:56:30,186 [Thread-7] [INFO] Skipping download of (./tmp/images/all/204163.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,186 [Thread-4] [INFO] Skipping download of (./tmp/images/all/204763.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,186 [Thread-5] [INFO] Skipping download of (./tmp/images/all/204763.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,186 [MainThread] [INFO] Stopping Thread-1.
+2021-01-06 23:56:30,186 [Thread-6] [INFO] Skipping download of (./tmp/images/all/204763.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,186 [Thread-7] [INFO] Skipping download of (./tmp/images/all/204763.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:30,186 [MainThread] [INFO] Stopping Thread-2.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-3.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-4.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-5.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-6.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-7.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-8.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-9.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-10.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping Thread-11.
+2021-01-06 23:56:30,187 [MainThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:56:30,191 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:56:43,985 [MainThread] [INFO] Config loaded succesfully.
+2021-01-06 23:56:43,985 [MainThread] [INFO] Temp directory (./tmp) found.
+2021-01-06 23:56:43,985 [MainThread] [INFO] Directory (./tmp/images) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] Directory (./tmp/images/all) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] Directory (./tmp/images/filtered) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] Directory (./tmp/index) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] Directory (./tmp/xml) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2021-01-06 23:56:43,986 [MainThread] [INFO] All directories created/emptied succesfully.
+2021-01-06 23:56:43,986 [MainThread] [INFO] 12/32 threads allocated.
+2021-01-06 23:56:44,987 [MainThread] [INFO] Started printQueueThread
+2021-01-06 23:56:45,022 [Thread-0] [INFO] Starting download Thread-0
+2021-01-06 23:56:45,022 [Thread-1] [INFO] Starting download Thread-1
+2021-01-06 23:56:45,023 [Thread-0] [INFO] Skipping download of (./tmp/images/all/201763.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,023 [Thread-2] [INFO] Starting download Thread-2
+2021-01-06 23:56:45,023 [Thread-1] [INFO] Skipping download of (./tmp/images/all/201763.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,023 [Thread-0] [INFO] Skipping download of (./tmp/images/all/202363.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,023 [Thread-3] [INFO] Starting download Thread-3
+2021-01-06 23:56:45,023 [Thread-2] [INFO] Skipping download of (./tmp/images/all/201763.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,023 [Thread-4] [INFO] Starting download Thread-4
+2021-01-06 23:56:45,023 [Thread-1] [INFO] Skipping download of (./tmp/images/all/202363.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,024 [Thread-0] [INFO] Skipping download of (./tmp/images/all/202963.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,024 [Thread-5] [INFO] Starting download Thread-5
+2021-01-06 23:56:45,024 [Thread-3] [INFO] Skipping download of (./tmp/images/all/201763.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,024 [Thread-2] [INFO] Skipping download of (./tmp/images/all/202363.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,024 [Thread-6] [INFO] Starting download Thread-6
+2021-01-06 23:56:45,024 [Thread-4] [INFO] Skipping download of (./tmp/images/all/201763.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,024 [Thread-7] [INFO] Starting download Thread-7
+2021-01-06 23:56:45,024 [Thread-1] [INFO] Skipping download of (./tmp/images/all/202963.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,025 [Thread-0] [INFO] Skipping download of (./tmp/images/all/203563.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,025 [Thread-8] [INFO] Starting download Thread-8
+2021-01-06 23:56:45,025 [Thread-5] [INFO] Skipping download of (./tmp/images/all/201763.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,025 [Thread-9] [INFO] Starting download Thread-9
+2021-01-06 23:56:45,025 [Thread-3] [INFO] Skipping download of (./tmp/images/all/202363.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,025 [Thread-2] [INFO] Skipping download of (./tmp/images/all/202963.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,025 [Thread-10] [INFO] Starting download Thread-10
+2021-01-06 23:56:45,026 [Thread-6] [INFO] Skipping download of (./tmp/images/all/201763.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,026 [Thread-4] [INFO] Skipping download of (./tmp/images/all/202363.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,026 [Thread-11] [INFO] Starting download Thread-11
+2021-01-06 23:56:45,026 [Thread-7] [INFO] Skipping download of (./tmp/images/all/201763.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,026 [MainThread] [INFO] All threads started
+2021-01-06 23:56:45,026 [Thread-1] [INFO] Skipping download of (./tmp/images/all/203563.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,026 [Thread-0] [INFO] Skipping download of (./tmp/images/all/204163.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,026 [Thread-5] [INFO] Skipping download of (./tmp/images/all/202363.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,027 [Thread-2] [INFO] Skipping download of (./tmp/images/all/203563.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,027 [Thread-3] [INFO] Skipping download of (./tmp/images/all/202963.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,027 [Thread-4] [INFO] Skipping download of (./tmp/images/all/202963.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,027 [Thread-6] [INFO] Skipping download of (./tmp/images/all/202363.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,032 [Thread-7] [INFO] Skipping download of (./tmp/images/all/202363.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,049 [Thread-1] [INFO] Skipping download of (./tmp/images/all/204163.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,060 [Thread-0] [INFO] Skipping download of (./tmp/images/all/204763.0_500353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,065 [Thread-5] [INFO] Skipping download of (./tmp/images/all/202963.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,071 [Thread-2] [INFO] Skipping download of (./tmp/images/all/204163.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,082 [Thread-3] [INFO] Skipping download of (./tmp/images/all/203563.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,088 [Thread-4] [INFO] Skipping download of (./tmp/images/all/203563.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,088 [Thread-6] [INFO] Skipping download of (./tmp/images/all/202963.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,122 [Thread-7] [INFO] Skipping download of (./tmp/images/all/202963.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,144 [Thread-1] [INFO] Skipping download of (./tmp/images/all/204763.0_500953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,166 [Thread-5] [INFO] Skipping download of (./tmp/images/all/203563.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,178 [Thread-2] [INFO] Skipping download of (./tmp/images/all/204763.0_501553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,195 [Thread-3] [INFO] Skipping download of (./tmp/images/all/204163.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,210 [Thread-4] [INFO] Skipping download of (./tmp/images/all/204163.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,216 [Thread-6] [INFO] Skipping download of (./tmp/images/all/203563.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,227 [Thread-7] [INFO] Skipping download of (./tmp/images/all/203563.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,238 [Thread-5] [INFO] Skipping download of (./tmp/images/all/204163.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,255 [Thread-3] [INFO] Skipping download of (./tmp/images/all/204763.0_502153.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,261 [Thread-4] [INFO] Skipping download of (./tmp/images/all/204763.0_502753.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,273 [Thread-6] [INFO] Skipping download of (./tmp/images/all/204163.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,294 [Thread-7] [INFO] Skipping download of (./tmp/images/all/204163.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,300 [Thread-5] [INFO] Skipping download of (./tmp/images/all/204763.0_503353.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,340 [Thread-6] [INFO] Skipping download of (./tmp/images/all/204763.0_503953.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:45,351 [Thread-7] [INFO] Skipping download of (./tmp/images/all/204763.0_504553.0_600.gdal.jpeg). File already exists.
+2021-01-06 23:56:46,396 [MainThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:56:46,396 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:56:46,427 [MainThread] [INFO] Finished downloading temp images
+2021-01-06 23:56:46,427 [MainThread] [INFO] Analyzer started
+2021-01-06 23:56:58,997 [MainThread] [INFO] Finished analyzing images
+2021-01-06 23:56:59,029 [MainThread] [INFO] Start indexing images
+2021-01-06 23:56:59,031 [MainThread] [INFO] Finished indexing images
+2021-01-06 23:57:00,032 [MainThread] [INFO] Downloading of final images started
+2021-01-06 23:57:01,037 [MainThread] [INFO] Started printQueueThread
+2021-01-06 23:57:01,070 [Thread-0] [INFO] Starting download Thread-0
+2021-01-06 23:57:01,070 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,071 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,071 [Thread-1] [INFO] Starting download Thread-1
+2021-01-06 23:57:01,071 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,071 [Thread-2] [INFO] Starting download Thread-2
+2021-01-06 23:57:01,071 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,071 [Thread-3] [INFO] Starting download Thread-3
+2021-01-06 23:57:01,071 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,071 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,072 [Thread-4] [INFO] Starting download Thread-4
+2021-01-06 23:57:01,072 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,072 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,072 [Thread-5] [INFO] Starting download Thread-5
+2021-01-06 23:57:01,072 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,072 [Thread-6] [INFO] Starting download Thread-6
+2021-01-06 23:57:01,072 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,072 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,073 [Thread-7] [INFO] Starting download Thread-7
+2021-01-06 23:57:01,073 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,073 [Thread-8] [INFO] Starting download Thread-8
+2021-01-06 23:57:01,073 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,073 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,073 [Thread-9] [INFO] Starting download Thread-9
+2021-01-06 23:57:01,073 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,073 [Thread-10] [INFO] Starting download Thread-10
+2021-01-06 23:57:01,074 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,074 [Thread-11] [INFO] Starting download Thread-11
+2021-01-06 23:57:01,074 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,074 [MainThread] [INFO] All threads started
+2021-01-06 23:57:01,074 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,074 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,074 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,074 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,075 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,096 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,096 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,108 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,124 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,139 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,161 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,166 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,172 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,184 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,196 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,235 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,235 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,258 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,270 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,270 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,287 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,298 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,319 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,341 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,363 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,385 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,395 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,406 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,429 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,434 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,440 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,446 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,458 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,469 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,492 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,504 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,509 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,520 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,526 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,538 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,550 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,555 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,578 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,589 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,610 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,616 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,628 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,640 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,656 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,673 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,690 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,707 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,718 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,746 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,746 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,756 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,777 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,777 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,799 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,820 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,832 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,855 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,866 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,890 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,902 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,907 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,929 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,929 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,939 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,950 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,980 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:01,997 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,003 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,025 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,025 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,036 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,046 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,051 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,062 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,068 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,108 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,129 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,129 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,152 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,158 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,163 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,173 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,195 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,195 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,195 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,212 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,218 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,224 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,229 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,246 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,258 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,264 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,286 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,298 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,310 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,327 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,332 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,344 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,350 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,350 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,366 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,377 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,400 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,400 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,417 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,434 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,458 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,474 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,496 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,502 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,508 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,529 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,529 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,550 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,556 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,562 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,579 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,596 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,606 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,622 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,654 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,666 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,700 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,710 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,758 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,763 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,779 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,800 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,822 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,834 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,839 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,850 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,876 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,882 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,888 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,912 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,939 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,962 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,974 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,986 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,991 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:02,997 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,002 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,014 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,025 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,030 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,048 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,059 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,070 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,082 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,088 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,111 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,127 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,154 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,165 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,176 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,198 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,203 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,208 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,230 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,253 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,286 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,286 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,291 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,303 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,308 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,314 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,347 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,347 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,358 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,358 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,368 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,396 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,396 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,413 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,435 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,435 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,458 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,469 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,480 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,491 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,512 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,524 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,535 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,563 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,563 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,591 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,597 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,603 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,630 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,630 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,641 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,658 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,680 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,698 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,714 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,730 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,742 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,759 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,776 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,793 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,804 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,809 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,826 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,832 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,844 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,860 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,878 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,883 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,906 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,922 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,945 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,957 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,979 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:03,989 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,000 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,012 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,034 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,046 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,063 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,074 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,080 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,086 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,104 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,109 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,115 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,130 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,147 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,168 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,180 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,185 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,196 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,207 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,219 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,219 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,231 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,242 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,258 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,263 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,284 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,296 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,301 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,313 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,325 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,330 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,336 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,347 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,363 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,375 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,381 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,392 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,409 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,438 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,449 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,466 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,466 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,477 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,489 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,511 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,517 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,532 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,538 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,554 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,566 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,572 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,589 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,594 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,612 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,612 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,617 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,628 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,644 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,671 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,683 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,688 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,700 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,710 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,721 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,726 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,748 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,748 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,760 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,778 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,778 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,794 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,804 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,810 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,826 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,826 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,832 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,842 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,847 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,853 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,869 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,881 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,908 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,908 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,913 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,930 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,935 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,951 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,961 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,983 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:04,995 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,012 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,033 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,050 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,050 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,067 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,099 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,110 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,116 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,126 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,137 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,154 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,164 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,175 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,192 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,213 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,230 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,235 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,247 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,253 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,275 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,287 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,299 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,310 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,326 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,337 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,337 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,353 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,370 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,391 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,402 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,413 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,430 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,430 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,440 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,440 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,458 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,474 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,486 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,496 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,513 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,519 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,530 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,547 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,564 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,575 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,591 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,607 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,618 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,628 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,644 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,656 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,667 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,673 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,678 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,694 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,706 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,711 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,727 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,756 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,756 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,772 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,800 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,811 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,817 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,828 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,857 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,857 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,874 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,904 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,921 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,927 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,944 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,960 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,987 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:05,998 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,016 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,022 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,040 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,074 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,103 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:06,136 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-06 23:57:07,226 [MainThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:57:07,226 [MainThread] [INFO] Finished downloading images!
+2021-01-06 23:57:07,226 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-06 23:57:08,227 [MainThread] [INFO] Cleaning up
+2021-01-07 00:30:24,909 [MainThread] [INFO] Config loaded succesfully.
+2021-01-07 00:30:24,910 [MainThread] [INFO] Temp directory (./tmp) found.
+2021-01-07 00:30:24,910 [MainThread] [INFO] Directory (./tmp/images) created successfully
+2021-01-07 00:30:24,911 [MainThread] [INFO] Directory (./tmp/images/all) created successfully
+2021-01-07 00:30:24,911 [MainThread] [INFO] Directory (./tmp/images/filtered) created successfully
+2021-01-07 00:30:24,911 [MainThread] [INFO] Directory (./tmp/index) created successfully
+2021-01-07 00:30:24,912 [MainThread] [INFO] Directory (./tmp/xml) created successfully
+2021-01-07 00:30:24,912 [MainThread] [INFO] Image directory (C:\Users\luukw\Desktop\nederland_500) found.
+2021-01-07 00:30:24,912 [MainThread] [INFO] All directories created/emptied succesfully.
+2021-01-07 00:30:24,912 [MainThread] [INFO] 12/32 threads allocated.
+2021-01-07 00:30:25,913 [MainThread] [INFO] Started printQueueThread
+2021-01-07 00:30:25,949 [Thread-0] [INFO] Starting download Thread-0
+2021-01-07 00:30:25,949 [Thread-1] [INFO] Starting download Thread-1
+2021-01-07 00:30:25,950 [Thread-2] [INFO] Starting download Thread-2
+2021-01-07 00:30:25,950 [Thread-3] [INFO] Starting download Thread-3
+2021-01-07 00:30:25,950 [Thread-0] [INFO] Created file: ./tmp/xml/201763.0-500353.0.xml succesfully.
+2021-01-07 00:30:25,950 [Thread-4] [INFO] Starting download Thread-4
+2021-01-07 00:30:25,951 [Thread-5] [INFO] Starting download Thread-5
+2021-01-07 00:30:25,951 [Thread-1] [INFO] Created file: ./tmp/xml/201763.0-500953.0.xml succesfully.
+2021-01-07 00:30:25,951 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:25,951 [Thread-2] [INFO] Created file: ./tmp/xml/201763.0-501553.0.xml succesfully.
+2021-01-07 00:30:25,951 [Thread-6] [INFO] Starting download Thread-6
+2021-01-07 00:30:25,951 [Thread-3] [INFO] Created file: ./tmp/xml/201763.0-502153.0.xml succesfully.
+2021-01-07 00:30:25,951 [Thread-7] [INFO] Starting download Thread-7
+2021-01-07 00:30:25,952 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:25,952 [Thread-8] [INFO] Starting download Thread-8
+2021-01-07 00:30:25,952 [Thread-4] [INFO] Created file: ./tmp/xml/201763.0-502753.0.xml succesfully.
+2021-01-07 00:30:25,952 [Thread-9] [INFO] Starting download Thread-9
+2021-01-07 00:30:25,952 [Thread-5] [INFO] Created file: ./tmp/xml/201763.0-503353.0.xml succesfully.
+2021-01-07 00:30:25,952 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:25,953 [Thread-10] [INFO] Starting download Thread-10
+2021-01-07 00:30:25,953 [Thread-11] [INFO] Starting download Thread-11
+2021-01-07 00:30:25,953 [MainThread] [INFO] All threads started
+2021-01-07 00:30:25,953 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:25,953 [Thread-6] [INFO] Created file: ./tmp/xml/201763.0-503953.0.xml succesfully.
+2021-01-07 00:30:26,009 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:26,009 [Thread-7] [INFO] Created file: ./tmp/xml/201763.0-504553.0.xml succesfully.
+2021-01-07 00:30:26,051 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:26,178 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:26,244 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:27,147 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/201763.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,163 [Thread-3] [INFO] Removed file: ./tmp/xml/201763.0-502153.0.xml.
+2021-01-07 00:30:27,214 [Thread-3] [INFO] Created file: ./tmp/xml/202363.0-502153.0.xml succesfully.
+2021-01-07 00:30:27,214 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/201763.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,225 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:27,271 [Thread-2] [INFO] Removed file: ./tmp/xml/201763.0-501553.0.xml.
+2021-01-07 00:30:27,325 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/201763.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,331 [Thread-2] [INFO] Created file: ./tmp/xml/202363.0-501553.0.xml succesfully.
+2021-01-07 00:30:27,337 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/201763.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,342 [Thread-7] [INFO] Removed file: ./tmp/xml/201763.0-504553.0.xml.
+2021-01-07 00:30:27,342 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:27,359 [Thread-1] [INFO] Removed file: ./tmp/xml/201763.0-500953.0.xml.
+2021-01-07 00:30:27,377 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/201763.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,401 [Thread-0] [INFO] Removed file: ./tmp/xml/201763.0-500353.0.xml.
+2021-01-07 00:30:27,412 [Thread-7] [INFO] Created file: ./tmp/xml/202363.0-504553.0.xml succesfully.
+2021-01-07 00:30:27,418 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:27,423 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/201763.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,434 [Thread-1] [INFO] Created file: ./tmp/xml/202363.0-500953.0.xml succesfully.
+2021-01-07 00:30:27,440 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/201763.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,449 [Thread-0] [INFO] Created file: ./tmp/xml/202363.0-500353.0.xml succesfully.
+2021-01-07 00:30:27,449 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:27,454 [Thread-6] [INFO] Removed file: ./tmp/xml/201763.0-503953.0.xml.
+2021-01-07 00:30:27,465 [Thread-5] [INFO] Removed file: ./tmp/xml/201763.0-503353.0.xml.
+2021-01-07 00:30:27,487 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:27,526 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/201763.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,526 [Thread-6] [INFO] Created file: ./tmp/xml/202363.0-503953.0.xml succesfully.
+2021-01-07 00:30:27,531 [Thread-4] [INFO] Removed file: ./tmp/xml/201763.0-502753.0.xml.
+2021-01-07 00:30:27,531 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:27,531 [Thread-5] [INFO] Created file: ./tmp/xml/202363.0-503353.0.xml succesfully.
+2021-01-07 00:30:27,613 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:27,613 [Thread-4] [INFO] Created file: ./tmp/xml/202363.0-502753.0.xml succesfully.
+2021-01-07 00:30:27,623 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:27,788 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202363.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:27,816 [Thread-3] [INFO] Removed file: ./tmp/xml/202363.0-502153.0.xml.
+2021-01-07 00:30:27,868 [Thread-3] [INFO] Created file: ./tmp/xml/202963.0-502153.0.xml succesfully.
+2021-01-07 00:30:27,873 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:27,985 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202363.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,008 [Thread-0] [INFO] Removed file: ./tmp/xml/202363.0-500353.0.xml.
+2021-01-07 00:30:28,008 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202363.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,019 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202363.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,042 [Thread-7] [INFO] Removed file: ./tmp/xml/202363.0-504553.0.xml.
+2021-01-07 00:30:28,068 [Thread-0] [INFO] Created file: ./tmp/xml/202963.0-500353.0.xml succesfully.
+2021-01-07 00:30:28,068 [Thread-2] [INFO] Removed file: ./tmp/xml/202363.0-501553.0.xml.
+2021-01-07 00:30:28,105 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202363.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,116 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:28,121 [Thread-7] [INFO] Created file: ./tmp/xml/202963.0-504553.0.xml succesfully.
+2021-01-07 00:30:28,150 [Thread-5] [INFO] Removed file: ./tmp/xml/202363.0-503353.0.xml.
+2021-01-07 00:30:28,155 [Thread-2] [INFO] Created file: ./tmp/xml/202963.0-501553.0.xml succesfully.
+2021-01-07 00:30:28,167 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:28,205 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202363.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,260 [Thread-5] [INFO] Created file: ./tmp/xml/202963.0-503353.0.xml succesfully.
+2021-01-07 00:30:28,277 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:28,338 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202363.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,357 [Thread-1] [INFO] Removed file: ./tmp/xml/202363.0-500953.0.xml.
+2021-01-07 00:30:28,357 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:28,419 [Thread-4] [INFO] Removed file: ./tmp/xml/202363.0-502753.0.xml.
+2021-01-07 00:30:28,465 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/202963.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,495 [Thread-1] [INFO] Created file: ./tmp/xml/202963.0-500953.0.xml succesfully.
+2021-01-07 00:30:28,511 [Thread-3] [INFO] Removed file: ./tmp/xml/202963.0-502153.0.xml.
+2021-01-07 00:30:28,523 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:28,523 [Thread-4] [INFO] Created file: ./tmp/xml/202963.0-502753.0.xml succesfully.
+2021-01-07 00:30:28,549 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:28,572 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202363.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,578 [Thread-3] [INFO] Created file: ./tmp/xml/203563.0-502153.0.xml succesfully.
+2021-01-07 00:30:28,578 [Thread-6] [INFO] Removed file: ./tmp/xml/202363.0-503953.0.xml.
+2021-01-07 00:30:28,578 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:28,652 [Thread-6] [INFO] Created file: ./tmp/xml/202963.0-503953.0.xml succesfully.
+2021-01-07 00:30:28,669 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:28,787 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/202963.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,838 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/202963.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,848 [Thread-0] [INFO] Removed file: ./tmp/xml/202963.0-500353.0.xml.
+2021-01-07 00:30:28,854 [Thread-7] [INFO] Removed file: ./tmp/xml/202963.0-504553.0.xml.
+2021-01-07 00:30:28,893 [Thread-0] [INFO] Created file: ./tmp/xml/203563.0-500353.0.xml succesfully.
+2021-01-07 00:30:28,903 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/202963.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,903 [Thread-7] [INFO] Created file: ./tmp/xml/203563.0-504553.0.xml succesfully.
+2021-01-07 00:30:28,903 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:28,919 [Thread-2] [INFO] Removed file: ./tmp/xml/202963.0-501553.0.xml.
+2021-01-07 00:30:28,919 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:28,964 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/202963.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:28,975 [Thread-5] [INFO] Removed file: ./tmp/xml/202963.0-503353.0.xml.
+2021-01-07 00:30:28,981 [Thread-2] [INFO] Created file: ./tmp/xml/203563.0-501553.0.xml succesfully.
+2021-01-07 00:30:28,981 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:29,021 [Thread-5] [INFO] Created file: ./tmp/xml/203563.0-503353.0.xml succesfully.
+2021-01-07 00:30:29,032 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:29,123 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/202963.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,134 [Thread-1] [INFO] Removed file: ./tmp/xml/202963.0-500953.0.xml.
+2021-01-07 00:30:29,182 [Thread-1] [INFO] Created file: ./tmp/xml/203563.0-500953.0.xml succesfully.
+2021-01-07 00:30:29,187 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:29,260 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/203563.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,265 [Thread-3] [INFO] Removed file: ./tmp/xml/203563.0-502153.0.xml.
+2021-01-07 00:30:29,299 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/202963.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,309 [Thread-4] [INFO] Removed file: ./tmp/xml/202963.0-502753.0.xml.
+2021-01-07 00:30:29,315 [Thread-3] [INFO] Created file: ./tmp/xml/204163.0-502153.0.xml succesfully.
+2021-01-07 00:30:29,320 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:29,336 [Thread-4] [INFO] Created file: ./tmp/xml/203563.0-502753.0.xml succesfully.
+2021-01-07 00:30:29,341 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:29,489 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/203563.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,495 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/202963.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,506 [Thread-7] [INFO] Removed file: ./tmp/xml/203563.0-504553.0.xml.
+2021-01-07 00:30:29,512 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/203563.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,523 [Thread-6] [INFO] Removed file: ./tmp/xml/202963.0-503953.0.xml.
+2021-01-07 00:30:29,534 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/203563.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,556 [Thread-0] [INFO] Removed file: ./tmp/xml/203563.0-500353.0.xml.
+2021-01-07 00:30:29,567 [Thread-7] [INFO] Created file: ./tmp/xml/204163.0-504553.0.xml succesfully.
+2021-01-07 00:30:29,584 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/203563.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,602 [Thread-2] [INFO] Removed file: ./tmp/xml/203563.0-501553.0.xml.
+2021-01-07 00:30:29,602 [Thread-6] [INFO] Created file: ./tmp/xml/203563.0-503953.0.xml succesfully.
+2021-01-07 00:30:29,612 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:29,630 [Thread-5] [INFO] Removed file: ./tmp/xml/203563.0-503353.0.xml.
+2021-01-07 00:30:29,641 [Thread-0] [INFO] Created file: ./tmp/xml/204163.0-500353.0.xml succesfully.
+2021-01-07 00:30:29,646 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:29,664 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/203563.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,669 [Thread-2] [INFO] Created file: ./tmp/xml/204163.0-501553.0.xml succesfully.
+2021-01-07 00:30:29,690 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:29,717 [Thread-5] [INFO] Created file: ./tmp/xml/204163.0-503353.0.xml succesfully.
+2021-01-07 00:30:29,732 [Thread-1] [INFO] Removed file: ./tmp/xml/203563.0-500953.0.xml.
+2021-01-07 00:30:29,732 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:29,829 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:29,834 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204163.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:29,863 [Thread-1] [INFO] Created file: ./tmp/xml/204163.0-500953.0.xml succesfully.
+2021-01-07 00:30:29,863 [Thread-3] [INFO] Removed file: ./tmp/xml/204163.0-502153.0.xml.
+2021-01-07 00:30:29,869 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:29,913 [Thread-3] [INFO] Created file: ./tmp/xml/204763.0-502153.0.xml succesfully.
+2021-01-07 00:30:29,919 [Thread-3] [INFO] Starting to download image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg
+2021-01-07 00:30:29,997 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/203563.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,008 [Thread-4] [INFO] Removed file: ./tmp/xml/203563.0-502753.0.xml.
+2021-01-07 00:30:30,035 [Thread-4] [INFO] Created file: ./tmp/xml/204163.0-502753.0.xml succesfully.
+2021-01-07 00:30:30,035 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:30,041 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204163.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,110 [Thread-7] [INFO] Removed file: ./tmp/xml/204163.0-504553.0.xml.
+2021-01-07 00:30:30,154 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/203563.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,165 [Thread-7] [INFO] Created file: ./tmp/xml/204763.0-504553.0.xml succesfully.
+2021-01-07 00:30:30,182 [Thread-6] [INFO] Removed file: ./tmp/xml/203563.0-503953.0.xml.
+2021-01-07 00:30:30,199 [Thread-7] [INFO] Starting to download image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg
+2021-01-07 00:30:30,266 [Thread-6] [INFO] Created file: ./tmp/xml/204163.0-503953.0.xml succesfully.
+2021-01-07 00:30:30,266 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:30,293 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204163.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,310 [Thread-0] [INFO] Removed file: ./tmp/xml/204163.0-500353.0.xml.
+2021-01-07 00:30:30,343 [Thread-0] [INFO] Created file: ./tmp/xml/204763.0-500353.0.xml succesfully.
+2021-01-07 00:30:30,349 [Thread-0] [INFO] Starting to download image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg
+2021-01-07 00:30:30,371 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204163.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,382 [Thread-5] [INFO] Removed file: ./tmp/xml/204163.0-503353.0.xml.
+2021-01-07 00:30:30,409 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204163.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,420 [Thread-2] [INFO] Removed file: ./tmp/xml/204163.0-501553.0.xml.
+2021-01-07 00:30:30,435 [Thread-5] [INFO] Created file: ./tmp/xml/204763.0-503353.0.xml succesfully.
+2021-01-07 00:30:30,447 [Thread-2] [INFO] Created file: ./tmp/xml/204763.0-501553.0.xml succesfully.
+2021-01-07 00:30:30,447 [Thread-5] [INFO] Starting to download image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg
+2021-01-07 00:30:30,458 [Thread-2] [INFO] Starting to download image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg
+2021-01-07 00:30:30,508 [Thread-3] [INFO] Downloaded image: ./tmp/images/all/204763.0_502153.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,547 [Thread-3] [INFO] Removed file: ./tmp/xml/204763.0-502153.0.xml.
+2021-01-07 00:30:30,646 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204163.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,652 [Thread-1] [INFO] Removed file: ./tmp/xml/204163.0-500953.0.xml.
+2021-01-07 00:30:30,652 [Thread-7] [INFO] Downloaded image: ./tmp/images/all/204763.0_504553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,692 [Thread-7] [INFO] Removed file: ./tmp/xml/204763.0-504553.0.xml.
+2021-01-07 00:30:30,709 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204163.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,715 [Thread-1] [INFO] Created file: ./tmp/xml/204763.0-500953.0.xml succesfully.
+2021-01-07 00:30:30,720 [Thread-4] [INFO] Removed file: ./tmp/xml/204163.0-502753.0.xml.
+2021-01-07 00:30:30,731 [Thread-1] [INFO] Starting to download image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg
+2021-01-07 00:30:30,764 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204163.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,806 [Thread-4] [INFO] Created file: ./tmp/xml/204763.0-502753.0.xml succesfully.
+2021-01-07 00:30:30,812 [Thread-6] [INFO] Removed file: ./tmp/xml/204163.0-503953.0.xml.
+2021-01-07 00:30:30,812 [Thread-0] [INFO] Downloaded image: ./tmp/images/all/204763.0_500353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:30,812 [Thread-4] [INFO] Starting to download image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg
+2021-01-07 00:30:30,861 [Thread-6] [INFO] Created file: ./tmp/xml/204763.0-503953.0.xml succesfully.
+2021-01-07 00:30:30,861 [Thread-6] [INFO] Starting to download image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg
+2021-01-07 00:30:30,861 [Thread-0] [INFO] Removed file: ./tmp/xml/204763.0-500353.0.xml.
+2021-01-07 00:30:30,999 [Thread-5] [INFO] Downloaded image: ./tmp/images/all/204763.0_503353.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:31,021 [Thread-5] [INFO] Removed file: ./tmp/xml/204763.0-503353.0.xml.
+2021-01-07 00:30:31,043 [Thread-2] [INFO] Downloaded image: ./tmp/images/all/204763.0_501553.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:31,048 [Thread-2] [INFO] Removed file: ./tmp/xml/204763.0-501553.0.xml.
+2021-01-07 00:30:31,323 [Thread-1] [INFO] Downloaded image: ./tmp/images/all/204763.0_500953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:31,346 [Thread-1] [INFO] Removed file: ./tmp/xml/204763.0-500953.0.xml.
+2021-01-07 00:30:31,456 [Thread-4] [INFO] Downloaded image: ./tmp/images/all/204763.0_502753.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:31,467 [Thread-4] [INFO] Removed file: ./tmp/xml/204763.0-502753.0.xml.
+2021-01-07 00:30:31,467 [Thread-6] [INFO] Downloaded image: ./tmp/images/all/204763.0_503953.0_600.gdal.jpeg succesfully.
+2021-01-07 00:30:31,506 [Thread-6] [INFO] Removed file: ./tmp/xml/204763.0-503953.0.xml.
+2021-01-07 00:30:32,522 [MainThread] [INFO] Stopping printQueueThread.
+2021-01-07 00:30:32,522 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-07 00:30:32,553 [MainThread] [INFO] Finished downloading temp images
+2021-01-07 00:30:32,554 [MainThread] [INFO] Analyzer started
+2021-01-07 00:30:42,475 [MainThread] [INFO] Finished analyzing images
+2021-01-07 00:30:42,508 [MainThread] [INFO] Start indexing images
+2021-01-07 00:30:42,511 [MainThread] [INFO] Finished indexing images
+2021-01-07 00:30:43,511 [MainThread] [INFO] Downloading of final images started
+2021-01-07 00:30:44,517 [MainThread] [INFO] Started printQueueThread
+2021-01-07 00:30:44,556 [Thread-0] [INFO] Starting download Thread-0
+2021-01-07 00:30:44,557 [Thread-1] [INFO] Starting download Thread-1
+2021-01-07 00:30:44,557 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,557 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,557 [Thread-2] [INFO] Starting download Thread-2
+2021-01-07 00:30:44,557 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,557 [Thread-3] [INFO] Starting download Thread-3
+2021-01-07 00:30:44,558 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,558 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,558 [Thread-4] [INFO] Starting download Thread-4
+2021-01-07 00:30:44,558 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,558 [Thread-5] [INFO] Starting download Thread-5
+2021-01-07 00:30:44,558 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,558 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,559 [Thread-6] [INFO] Starting download Thread-6
+2021-01-07 00:30:44,559 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,559 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,559 [Thread-7] [INFO] Starting download Thread-7
+2021-01-07 00:30:44,559 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,559 [Thread-8] [INFO] Starting download Thread-8
+2021-01-07 00:30:44,559 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,559 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,560 [Thread-9] [INFO] Starting download Thread-9
+2021-01-07 00:30:44,560 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,560 [Thread-10] [INFO] Starting download Thread-10
+2021-01-07 00:30:44,560 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,560 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,560 [Thread-11] [INFO] Starting download Thread-11
+2021-01-07 00:30:44,560 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,560 [MainThread] [INFO] All threads started
+2021-01-07 00:30:44,561 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,561 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,561 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,561 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,561 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,561 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,562 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,574 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,585 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,611 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,617 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,627 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,638 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,655 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,667 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,678 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,700 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,717 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,728 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,744 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,750 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,766 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,787 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,798 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,798 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,821 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,821 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,833 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,850 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,866 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,871 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,893 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,893 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,916 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,937 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,959 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,975 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,986 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:44,997 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,020 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,041 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,058 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,064 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,070 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,080 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,109 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,115 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,120 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,136 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,141 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,168 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,191 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,207 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,207 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,228 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,239 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,255 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,271 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,282 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,305 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,338 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,343 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,359 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,370 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,396 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,402 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,407 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,418 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,428 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,439 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,455 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,477 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,487 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,504 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,521 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,532 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,537 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,542 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,558 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,570 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,588 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,609 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,627 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,643 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,667 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,678 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,683 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,688 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,699 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,715 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,715 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,721 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,737 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,752 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,752 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,778 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,793 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,810 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,838 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,861 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,883 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,895 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,913 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,924 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,940 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,962 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,973 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,985 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:45,996 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,018 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,034 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,057 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,068 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,090 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,107 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,113 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,113 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,135 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,146 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,152 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,152 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,162 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,174 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,190 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,206 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,217 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,233 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,244 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,261 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,272 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,277 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,283 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,295 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,324 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,345 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,351 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,356 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,362 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,368 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,390 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,416 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,428 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,438 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,449 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,454 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,465 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,471 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,482 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,488 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,499 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,510 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,538 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,538 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,549 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,560 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,566 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,566 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,577 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,593 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,614 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,625 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,625 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,653 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,669 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,685 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,696 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,717 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,722 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,734 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,740 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,750 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,766 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,778 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,806 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,811 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,823 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,823 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,839 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,861 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,883 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,888 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,903 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,903 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,913 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,929 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,945 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,951 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,969 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,974 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,985 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:46,996 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,001 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,018 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,029 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,051 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,067 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,078 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,084 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,095 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,106 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,117 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,133 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,149 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,161 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,172 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,184 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,206 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,211 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,222 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,232 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,243 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,249 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,267 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,273 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,290 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,311 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,317 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,328 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,333 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,344 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,350 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,356 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,378 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,389 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,395 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,406 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,417 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,429 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,440 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,457 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,474 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,485 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,501 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,513 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,518 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,541 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,541 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,558 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,558 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,570 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,596 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,619 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,635 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,647 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,652 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,657 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,674 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,674 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,691 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,702 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,713 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,724 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,751 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,757 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,769 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,786 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,797 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,818 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,824 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,861 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,861 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,872 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,877 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,883 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,889 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,900 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,910 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,921 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_501953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,948 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,960 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_503953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,970 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,975 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:47,987 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,003 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,008 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,020 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,020 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,025 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,043 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,059 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,080 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,107 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,113 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,118 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,140 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,163 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,178 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,178 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,195 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,218 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,245 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,251 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,263 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,284 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,295 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,307 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,318 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,334 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,334 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,366 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,393 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,414 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,425 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,449 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,460 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,460 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,470 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,506 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,506 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,516 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,527 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,537 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,559 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,574 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,585 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,591 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,602 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,607 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,613 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,625 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,635 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,657 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,679 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,707 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,707 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,729 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,735 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,752 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,757 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,775 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,795 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,807 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,818 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,818 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/201963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,841 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,852 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,863 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,874 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,906 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203763.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,912 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,923 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202363.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,928 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,945 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,956 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,978 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,978 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:48,995 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,012 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,018 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,034 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,051 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,072 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,078 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,094 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,105 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,135 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,147 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204163.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,153 [Thread-0] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202163.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,169 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,193 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,193 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,209 [Thread-1] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202763.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,215 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,232 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,237 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,243 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,249 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,254 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,271 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,302 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,319 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,342 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_500953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,370 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203963.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,381 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_502553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,393 [Thread-2] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202563.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,403 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,421 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/202963.0_503753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,427 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,450 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,467 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,489 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_500753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,506 [Thread-3] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_501153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,528 [Thread-6] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,539 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,573 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504753.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,573 [Thread-4] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203163.0_503353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,579 [Thread-7] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204563.0_500553.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,596 [Thread-8] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204363.0_503153.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,613 [Thread-5] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/203563.0_501353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,645 [Thread-9] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204963.0_500353.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,678 [Thread-10] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/204763.0_502953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:49,700 [Thread-11] [INFO] Skipping download of (C:\Users\luukw\Desktop\nederland_500/205163.0_504953.0_200.gdal.jpeg). File already exists.
+2021-01-07 00:30:50,787 [MainThread] [INFO] Stopping printQueueThread.
+2021-01-07 00:30:50,787 [MainThread] [INFO] Finished downloading images!
+2021-01-07 00:30:50,787 [PrintQueueThread] [INFO] Stopping printQueueThread.
+2021-01-07 00:30:51,787 [MainThread] [INFO] Cleaning up

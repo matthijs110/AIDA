@@ -20,8 +20,7 @@ image:
   projection: EPSG:28992
 
 analyzer:
-  modelpath: model4/saved_model.pb
-  use-gpu: false
+  modelpath: model4
 
 timeout: 300
 bandscount: 3
