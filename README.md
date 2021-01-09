@@ -1,4 +1,6 @@
-![icon](https://i.imgur.com/bQ4E4m8.png)
+<p align="center">
+  <img width="381" height="355" src="https://i.imgur.com/bQ4E4m8.png">
+</p>
 
 AIDA
 ===================
