@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="381" height="355" src="https://i.imgur.com/bQ4E4m8.png">
+  <img width="236" height="220" src="https://i.imgur.com/bQ4E4m8.png">
 </p>
+
 
 AIDA
 ===================
