@@ -18,8 +18,7 @@ To install AIDA, you have two options. You can either use the installer or run A
 
 ### Install from installer (recommended)
 
-Step 1: Download the installer from here:
-https://drive.google.com/file/d/1mvioDhkEoElOuLM0JHOHpGLhUjoL2m1d/view?usp=sharing
+Step 1: Download the latest installer from here: https://github.com/parkeerplaatsspeurders/AIDA/releases
 
 Step 2: Install the AIDA
 
