@@ -9,7 +9,7 @@ Install
 
 To install AIDA, you have two options. You can either use the installer or run AIDA from the source code with python.
 
-#### Install from installer (recommended)
+### Install from installer (recommended)
 
 Step 1: Download the installer from here:
 https://drive.google.com/file/d/1mvioDhkEoElOuLM0JHOHpGLhUjoL2m1d/view?usp=sharing
@@ -18,7 +18,7 @@ Step 2: Install the AIDA
 
 Step 3: Add the main folder of AIDA to your environment path variable.
 
-#### Run source with python
+### Run source with python
 
 Prerequisites:
 
