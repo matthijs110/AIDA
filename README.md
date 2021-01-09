@@ -1,3 +1,5 @@
+![icon](https://i.imgur.com/bQ4E4m8.png)
+
 AIDA
 ===================
 
@@ -78,19 +80,18 @@ threads: 6
 ```
 
 
+
 **Service:**
 Describes the used WMS service.
 
 | Setting     | Value                                                        |
 | ----------- | ------------------------------------------------------------ |
-| version     | The version of the WMS service. This version of AIDA does not support v1.3.0 |
+| version     | The version of the WMS service. This version of AIDA does not support v1.3.0 or higher. |
 | url         | The URL of the WMS service                                   |
 | srs         | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommend** |
 | format      | The format of the image produces                             |
 | transparant | If Transpartent or not                                       |
 | layer       | The Layer of the WMS service                                 |
-
-
 
 **Bbox:**
 The bbox is the bounding box for the map you want to retrieve. Best is to use the EPSG:28992 coordinate system for retrieving images form The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter.
@@ -102,8 +103,6 @@ The bbox is the bounding box for the map you want to retrieve. Best is to use th
 | east    | The east coordinate  |
 | north   | The north coordinate |
 
-
-
 **Image:**
 Settings for downloading the images.
 
@@ -114,10 +113,6 @@ Settings for downloading the images.
 | resolution | The resolution is the pixel dimension of an individual image |
 | directory  | The directory where the downloaded images are stored         |
 | projection | The projection to which the images are projected to when downloaded from the WMS service. In this version of AIDA, you can **only** use EPSG:28992 |
-
-
-
-
 
 **Other:**
 All other settings
