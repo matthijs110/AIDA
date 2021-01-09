@@ -158,3 +158,15 @@ optional arguments:
 
 If you run in to problems you can run the program in verbose mode with the `-v` flag. You can also look in `debug.log` or `gdal.error.log`.
 
+
+
+## Note:
+
+In this version of AIDA you may see the following warning while the tool is analyzing images:
+
+> AutoGraph could not transform <function Model.make_predict_function.<locals>.predict_function at 0x000002D461F17820> and will run it as-is.
+> Please report this to the TensorFlow team. When filing the bug, set the verbosity to 10 (on Linux, export AUTOGRAPH_VERBOSITY=10) and attach the full output.
+> Cause: Unable to locate the source code of <function Model.make_predict_function.<locals>.predict_function at 0x000002D461F17820>. Note that functions defined in certain environments, like the interactive Python shell do not expose their source code. If that is the case, you should to define them in a .py source file. If you are certain the code is graph-compatible, wrap the call using @tf.autograph.do_not_convert. Original error: could not get source code
+> To silence this warning, decorate the function with @tf.autograph.experimental.do_not_convert
+
+You can safely ignore this warning.
