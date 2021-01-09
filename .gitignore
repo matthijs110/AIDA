@@ -5,3 +5,7 @@ __pycache__/*
 model4
 build
 dist
+gdal
+Output
+tensorflow_models
+innoSetup.iss

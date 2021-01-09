@@ -1,7 +1,8 @@
 import os
 import warnings
 warnings.filterwarnings("ignore")
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+os.environ['AUTOGRAPH_VERBOSITY'] = '0'
 
 import analyzer 
 import downloader 
@@ -26,6 +27,7 @@ import yaml
 import argparse
 from datetime import datetime
 import shutil
+from sys import exit
 
 stdoutHandler = log.StreamHandler(sys.stdout)
 VERSION = "1.0.0"

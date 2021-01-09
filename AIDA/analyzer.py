@@ -7,7 +7,6 @@ import shutil
 import os
 from tensorflow import keras
 
-
 def analyze(config, pbTotal):
 
     physical_devices = tf.config.list_physical_devices('GPU') 
