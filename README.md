@@ -5,10 +5,6 @@ AIDA (Aerial Imagery Downloader and Analyzer) is a simple to use tool to downloa
 
 
 
-## Table of contents:
-
-[TOC]
-
 
 Install
 ---
