@@ -4,6 +4,12 @@ AIDA
 AIDA (Aerial Imagery Downloader and Analyzer) is a simple to use tool to download aerial imagery of big regions. It works by first downloading larger aerial images which are to large for details, but ok to see if the image is useable or not. When the download of all large images is complete, the tool analyzes the images using a trained machine learning model. The model provided by the tool only checks if the image is nature or not. The image is discarded if it is nature, but kept if not. Then all images who are not nature are indexed and will be downloaded in the final size. Using this method it reduces the amount of images by 80% to 90%.
 
 
+
+## Table of contents:
+
+[TOC]
+
+
 Install
 ---
 
@@ -17,6 +23,8 @@ https://drive.google.com/file/d/1mvioDhkEoElOuLM0JHOHpGLhUjoL2m1d/view?usp=shari
 Step 2: Install the AIDA
 
 Step 3: Add the main folder of AIDA to your environment path variable.
+
+
 
 ### Run source with python
 
