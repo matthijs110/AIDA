@@ -90,13 +90,13 @@ Describes the used WMS service.
 | ----------- | ------------------------------------------------------------ |
 | version     | The version of the WMS service. This version of AIDA does not support v1.3.0 or higher. |
 | url         | The URL of the WMS service                                   |
-| srs         | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommend** |
+| srs         | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommended** |
 | format      | The format of the image produces                             |
 | transparant | If Transpartent or not                                       |
 | layer       | The Layer of the WMS service                                 |
 
 **Bbox:**
-The bbox is the bounding box for the map you want to retrieve. Best is to use the EPSG:28992 coordinate system for retrieving images form The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter. To find the bbox you can use http://bboxfinder.com/. You can set the coordinate system to EPSG:28992 and create a bbox of the area you want to download the images of.
+The bbox is the bounding box for the map you want to retrieve. Best is to use the `EPSG:28992` coordinate system for retrieving images form The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter. To find the bbox you can use http://bboxfinder.com/. You can set the coordinate system to `EPSG:28992` and create a bbox of the area you want to download the images of.
 
 | Setting | Value                |
 | ------- | -------------------- |
