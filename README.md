@@ -2,17 +2,11 @@
   <img width="236" height="220" src="https://i.imgur.com/bQ4E4m8.png">
 </p>
 
-
-AIDA
-===================
+# AIDA
 
 AIDA (Aerial Imagery Downloader and Analyzer) is a simple to use tool to download aerial imagery of big regions. It works by first downloading larger aerial images which are to large for details, but ok to see if the image is useable or not. When the download of all large images is complete, the tool analyzes the images using a trained machine learning model. The model provided by the tool only checks if the image is nature or not. The image is discarded if it is nature, but kept if not. Then all images who are not nature are indexed and will be downloaded in the final size. Using this method it reduces the amount of images by 80% to 90%.
 
-
-
-
-Install
----
+## Install
 
 To install AIDA, you have two options. You can either use the installer or run AIDA from the source code with python.
 
@@ -23,8 +17,6 @@ Step 1: Download the latest installer from here: https://github.com/parkeerplaat
 Step 2: Install the AIDA
 
 Step 3: Add the main folder of AIDA to your environment path variable.
-
-
 
 ### Run source with python
 
@@ -38,16 +30,15 @@ Prerequisites:
 After you downloaded the source code from Github you can run AIDA as follows:
 
 ```bash
-python aida.py 
+python aida.py
 ```
-
-
 
 ## Usage
 
 To use AIDA you need to create a config file.
 
 ### Config
+
 Create a `config.yml` specifying your setup like this:
 You can download an example config from here: https://github.com/parkeerplaatsspeurders/AIDA/releases
 
@@ -59,7 +50,7 @@ service:
   transparent: false
   timeout: 300
   threads: 12
-  
+
 bbox:
   srs: EPSG:28992
   west: 201763
@@ -74,57 +65,55 @@ image:
   format: jpeg
   projection: EPSG:28992
   bandscount: 3
-  
+
 directory:
   images: C:\DIRECTORY\TO\STORE\IMAGES
   tmp: ./tmp
   model: C:\Program Files (x86)\AIDA\model4
 ```
 
-
-
 **Service:**
 Describes the used WMS service.
 
-| Setting     | Value                                                        |
-| ----------- | ------------------------------------------------------------ |
-| version     | The version of the WMS service. This version of AIDA only supports v1.1.1 |
-| url         | The URL of the WMS service                                   |
-| layer       | The Layer of the WMS service                                 |
-| transparant | If Transpartent or not                                       |
-| timeout     | The timeout for downloading the images                       |
+| Setting     | Value                                                                                                                                                                                                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| version     | The version of the WMS service. This version of AIDA only supports v1.1.1                                                                                                                                                                                        |
+| url         | The URL of the WMS service                                                                                                                                                                                                                                       |
+| layer       | The Layer of the WMS service                                                                                                                                                                                                                                     |
+| transparant | If Transpartent or not                                                                                                                                                                                                                                           |
+| timeout     | The timeout for downloading the images                                                                                                                                                                                                                           |
 | threads     | Number of threads the tool can utilize to download the images. The more threads you allocate, the faster the tool can download, because it downloads them simultaneously. For a 4 core CPU 6 threads is recommended, for a 8 core CPU 12 threads in recommended. |
 
 **Bbox:**
 The bbox is the bounding box for the map you want to retrieve. Best is to use the EPSG:28992 coordinate system for retrieving images of The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter. To find the bbox you can use http://bboxfinder.com/. You can set the coordinate system to EPSG:28992 and create a bbox of the area you want to download the images of.
 
-| Setting | Value                                                        |
-| ------- | ------------------------------------------------------------ |
-| srs     | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommend** |
-| west    | The west coordinate                                          |
-| south   | The south coordinate                                         |
-| east    | The east coordinate                                          |
-| north   | The north coordinate                                         |
+| Setting | Value                                                                               |
+| ------- | ----------------------------------------------------------------------------------- |
+| srs     | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommended** |
+| west    | The west coordinate                                                                 |
+| south   | The south coordinate                                                                |
+| east    | The east coordinate                                                                 |
+| north   | The north coordinate                                                                |
 
 **Image:**
 Settings for downloading the images.
 
-| Setting    | Value                                                        |
-| ---------- | ------------------------------------------------------------ |
+| Setting    | Value                                                                                                                                                                                                                                                                           |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | tempsize   | The temporally size of the images. This size must be larger then the final size and must be dividable by `size`. For example: A tempsize of 800 and a size of 200 is ok. They are dividable. A tempsize of 500 and a size of 200 is not ok. The measurement is in whole meters. |
-| size       | The final size the images should be downloaded at. A size of 200 means it is 200 meters by 200 meters. |
-| resolution | The resolution is the pixel dimension of an individual image |
-| format     | The format of the produced image                             |
-| projection | The projection to which the images are projected to when downloaded from the WMS service. In this version of AIDA, you can **only** use EPSG:28992 |
-| bandscount | Bandscount for the images                                    |
+| size       | The final size the images should be downloaded at. A size of 200 means it is 200 meters by 200 meters.                                                                                                                                                                          |
+| resolution | The resolution is the pixel dimension of an individual image                                                                                                                                                                                                                    |
+| format     | The format of the produced image                                                                                                                                                                                                                                                |
+| projection | The projection to which the images are projected to when downloaded from the WMS service. In this version of AIDA, you can **only** use EPSG:28992                                                                                                                              |
+| bandscount | Bandscount for the images                                                                                                                                                                                                                                                       |
 
 **Directory:**
 The directories used by the tool.
 
-| Setting | Value                                                        |
-| ------- | ------------------------------------------------------------ |
-| images  | The directory where the final images will be stored.         |
-| tmp     | The directory where all temporarily files are stored. When AIDA is finished, the directory will be wiped. |
+| Setting | Value                                                                                                                             |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| images  | The directory where the final images will be stored.                                                                              |
+| tmp     | The directory where all temporarily files are stored. When AIDA is finished, the directory will be wiped.                         |
 | model   | The path where the tensorflow model is stored. The provided model is called `model4` and is stored in the root directory of AIDA. |
 
 ### Run
@@ -134,8 +123,6 @@ Then run the tool with `config.yml` as an argument:
 ```bash
 aida config.yml
 ```
-
-
 
 ## Help
 
@@ -154,8 +141,6 @@ optional arguments:
 ```
 
 If you run in to problems you can run the program in verbose mode with the `-v` flag. You can also look in `debug.log` or `gdal.error.log`.
-
-
 
 ## Note:
 
