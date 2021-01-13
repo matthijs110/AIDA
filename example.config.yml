@@ -22,6 +22,6 @@ image:
   bandscount: 3
   
 directory:
-  images: C:\Users\luukw\Desktop\nederland_500
+  images: C:\DIRECTORY\TO\STORE\IMAGES
   tmp: ./tmp
-  model: ./tensorflow_models/model4
+  model: C:\Program Files (x86)\AIDA\model4 

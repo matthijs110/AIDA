@@ -164,19 +164,33 @@ def check_config(config):
     """
 
     # Create or emtpy all directories
-    directory.check(config["tmpdirectory"], "Temp directory")
-    directory.create_or_empty(f"{config['tmpdirectory']}/images")
-    directory.create(f"{config['tmpdirectory']}/images/all")
-    directory.create_or_empty(f"{config['tmpdirectory']}/images/filtered")
-    directory.create_or_empty(f"{config['tmpdirectory']}/index")
-    directory.create_or_empty(f"{config['tmpdirectory']}/xml")
-    directory.check(config["image"]["directory"], "Image directory")
+    directory.check(config["directory"]["tmp"], "Temp directory")
+    directory.create(f"{config['directory']['tmp']}/images")
+    directory.create(f"{config['directory']['tmp']}/images/all")
+    directory.create_or_empty(f"{config['directory']['tmp']}/images/filtered")
+    directory.create_or_empty(f"{config['directory']['tmp']}/index")
+    directory.create_or_empty(f"{config['directory']['tmp']}/xml")
+    directory.check(config['directory']['images'], "Image directory")
+    directory.check_bbox_hash(config)
+
+    # Check model directory:
+    if(not os.path.isdir(config['directory']['model'])):
+        log.error("The model directory could not be found.")
+        exit()
 
     log.info("All directories created/emptied succesfully.")
 
     # Check if Projection is correct
     if(config["image"]["projection"] != "EPSG:28992"):
         log.error("Projection is not set to EPSG:28992. In this version of AIDA you must use EPSG:28992. Please review your config file.")
+        exit()
+    
+    # Check if bbox is whole number
+    if(not (isinstance(config['bbox']['west'], int) 
+            and isinstance(config['bbox']['south'], int) 
+            and isinstance(config['bbox']['east'], int) 
+            and isinstance(config['bbox']['north'], int))):
+        log.error("bbox values must be a whole number.")
         exit()
 
     # Check if tempsize and image size are ok
@@ -189,11 +203,11 @@ def check_config(config):
 
     # Check if threads are avaiable
     max_threads = multiprocessing.cpu_count() * 2
-    if(int(config["threads"]) > max_threads):
+    if(int(config["service"]["threads"]) > max_threads):
         log.error("Trying to allocate too many threads. MAX: " + str(max_threads))
         exit()
 
-    log.info(f"{config['threads']}/{max_threads} threads allocated.")
+    log.info(f"{config['service']['threads']}/{max_threads} threads allocated.")
 
 def download_temp_images(config):
     """Downloads the temp images data set
@@ -215,7 +229,7 @@ def download_temp_images(config):
     print_queue = status.printQueue()
 
     # Create threads
-    image_directory = f"{config['tmpdirectory']}/images/all"
+    image_directory = f"{config['directory']['tmp']}/images/all"
     threads = threadsHelper.create(
         temp_range, image_directory, config['image']['tempsize'], config)
 
@@ -329,7 +343,7 @@ def download_final_images(config):
     print_queue = status.printQueue()
 
     # Create threads
-    image_directory = config['image']['directory']
+    image_directory = config['directory']['images']
     threads = threadsHelper.create(
         image_range, image_directory, config['image']['size'], config)
 
@@ -382,9 +396,9 @@ def clean_up(config):
     log.info("Cleaning up")
 
     try:
-        shutil.rmtree(f"{config['tmpdirectory']}/images")
-        shutil.rmtree(f"{config['tmpdirectory']}/index")
-        shutil.rmtree(f"{config['tmpdirectory']}/xml")
+        shutil.rmtree(f"{config['directory']['tmp']}/images")
+        shutil.rmtree(f"{config['directory']['tmp']}/index")
+        shutil.rmtree(f"{config['directory']['tmp']}/xml")
     except:
         log.error("Somthing went wrong while cleaning up files. You may have to manualy remove the contents of the tmp directory.")
     

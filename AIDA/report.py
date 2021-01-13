@@ -3,7 +3,7 @@ def print_report(config, data):
 
     total_area: "Could not compute"
     image_area: "Could not compute"
-    if(config["service"]["srs"] == "EPSG:28992"):
+    if(config["bbox"]["srs"] == "EPSG:28992"):
         total_area = round((config["bbox"]["east"] - config["bbox"]["west"]) * (config["bbox"]["north"] - config["bbox"]["south"]) / 1000000, 2)
         image_area = config["image"]["size"] * config["image"]["size"]
 
@@ -17,7 +17,7 @@ def print_report(config, data):
 +---------------------------------------------+
 Total area:                  {total_area}km2
 Total time:                  {data['total_time']}
-Output Directory:            {config['image']['directory']}
+Output Directory:            {config['directory']['images']}
 AIDA version:                {data['version']}
 
 +---------------------------------------------+
@@ -31,7 +31,7 @@ Of which were build-up land: {data['number_of_buildup_images']}
 +---------------------------------------------+
 |                    BBOX                     |
 +---------------------------------------------+
-Coordinate system:           {config["service"]["srs"]}
+Coordinate system:           {config["bbox"]["srs"]}
 west:                        {config["bbox"]["west"]}
 south:                       {config["bbox"]["south"]}
 east:                        {config["bbox"]["east"]}

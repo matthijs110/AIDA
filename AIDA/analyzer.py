@@ -15,12 +15,12 @@ def analyze(config, pbTotal):
 
     img_height = config['image']['resolution']
     img_width = config['image']['resolution']
-    source_path = pathlib.Path(f"{config['tmpdirectory']}/images/all")
-    img_dest_path = pathlib.Path(f"{config['tmpdirectory']}/images/filtered/")
+    source_path = pathlib.Path(f"{config['directory']['tmp']}/images/all")
+    img_dest_path = pathlib.Path(f"{config['directory']['tmp']}/images/filtered/")
 
     np.set_printoptions(suppress=True)
 
-    model = tensorflow.keras.models.load_model(config['analyzer']['modelpath'])
+    model = tensorflow.keras.models.load_model(config['directory']['model'])
 
     images = list(source_path.glob('*.jpeg'))
 

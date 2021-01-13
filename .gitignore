@@ -9,3 +9,7 @@ gdal
 Output
 tensorflow_models
 innoSetup.iss
+config.yml
+config2.yml
+gdal.error.log
+debug.log
