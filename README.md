@@ -40,6 +40,7 @@ To use AIDA you need to create a config file.
 ### Config
 
 Create a `config.yml` specifying your setup like this:
+
 You can download an example config from here: https://github.com/parkeerplaatsspeurders/AIDA/releases
 
 ```yaml
