@@ -78,7 +78,7 @@ Describes the used WMS service.
 
 | Setting     | Value                                                                                                                                                                                                                                                            |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| version     | The version of the WMS service. This version of AIDA only supports v1.1.1                                                                                                                                                                                        |
+| version     | The version of the WMS service. This version of AIDA only supports **v1.1.1**                                                                                                                                                                                        |
 | url         | The URL of the WMS service                                                                                                                                                                                                                                       |
 | layer       | The Layer of the WMS service                                                                                                                                                                                                                                     |
 | transparant | If Transpartent or not                                                                                                                                                                                                                                           |
@@ -86,11 +86,11 @@ Describes the used WMS service.
 | threads     | Number of threads the tool can utilize to download the images. The more threads you allocate, the faster the tool can download, because it downloads them simultaneously. For a 4 core CPU 6 threads is recommended, for a 8 core CPU 12 threads in recommended. |
 
 **Bbox:**
-The bbox is the bounding box for the map you want to retrieve. Best is to use the EPSG:28992 coordinate system for retrieving images of The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter. To find the bbox you can use http://bboxfinder.com/. You can set the coordinate system to EPSG:28992 and create a bbox of the area you want to download the images of.
+The bbox is the bounding box for the map you want to retrieve. Best is to use the `EPSG:28992` coordinate system for retrieving images of The Netherlands. For images outside the Netherlands use a coordinate system where each digit equals one meter. To find the bbox you can use http://bboxfinder.com/. You can set the coordinate system to `EPSG:28992` and create a bbox of the area you want to download the images of.
 
 | Setting | Value                                                                               |
 | ------- | ----------------------------------------------------------------------------------- |
-| srs     | The Coordinate Systems used by the WMS service. **EPSG:28992 strongly recommended** |
+| srs     | The Coordinate Systems used by the WMS service. **`EPSG:28992` strongly recommended** |
 | west    | The west coordinate                                                                 |
 | south   | The south coordinate                                                                |
 | east    | The east coordinate                                                                 |
@@ -105,7 +105,7 @@ Settings for downloading the images.
 | size       | The final size the images should be downloaded at. A size of 200 means it is 200 meters by 200 meters.                                                                                                                                                                          |
 | resolution | The resolution is the pixel dimension of an individual image                                                                                                                                                                                                                    |
 | format     | The format of the produced image                                                                                                                                                                                                                                                |
-| projection | The projection to which the images are projected to when downloaded from the WMS service. In this version of AIDA, you can **only** use EPSG:28992                                                                                                                              |
+| projection | The projection to which the images are projected to when downloaded from the WMS service. In this version of AIDA, you can **only** use `EPSG:28992`                                                                                                                              |
 | bandscount | Bandscount for the images                                                                                                                                                                                                                                                       |
 
 **Directory:**
