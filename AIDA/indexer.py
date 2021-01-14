@@ -3,22 +3,22 @@ import re
 
 def index(config):
 
-    data_dir = pathlib.Path(f"{config['tmpdirectory']}/images/filtered")
+    data_dir = pathlib.Path(f"{config['directory']['tmp']}/images/filtered")
     images = list(data_dir.glob('*.jpeg'))
 
     tempsize = config['image']['tempsize']
     size = config['image']['size']
-    outputFile = f"{config['tmpdirectory']}/index/index.csv"
+    outputFile = f"{config['directory']['tmp']}/index/index.csv"
 
     number_of_images = 0
 
     f = open(outputFile, "w")
 
     for image in images:
-        west = float(re.findall(r"(\d{1,6}\.0)", str(image))[0])
-        south = float(re.findall(r"(\d{1,6}\.0)", str(image))[1])
-        east = float(west) + tempsize
-        north = float(south) + tempsize
+        west = int((re.findall(r"(\d{1,7}_)", str(image))[0]).replace('_', ''))
+        south = int((re.findall(r"(\d{1,7}_)", str(image))[1]).replace('_', ''))
+        east = int(west) + tempsize
+        north = int(south) + tempsize
 
         west_range = list(arange(west, east, size))
         south_range = list(arange(south, north, size))

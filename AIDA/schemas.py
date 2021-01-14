@@ -11,11 +11,7 @@ yml_schema = {
                 'required': True,
                 'type': 'string'
             },
-            'srs': {
-                'required': True,
-                'type': 'string'
-            },
-            'format': {
+            'layer': {
                 'required': True,
                 'type': 'string'
             },
@@ -23,9 +19,13 @@ yml_schema = {
                 'required': True,
                 'type': 'boolean'
             },
-            'layer': {
+            'timeout': {
                 'required': True,
-                'type': 'string'
+                'type': 'number'
+            },
+            'threads': {
+                'required': True,
+                'type': 'number'
             }
         }
     },
@@ -33,6 +33,10 @@ yml_schema = {
         'required': True,
         'type': 'dict',
         'schema': {
+            'srs': {
+                'required': True,
+                'type': 'string'
+            },
             'west': {
                 'required': True,
                 'type': 'number'
@@ -67,41 +71,37 @@ yml_schema = {
                 'required': True,
                 'type': 'number'
             },
-            'directory': {
+            'format': {
                 'required': True,
                 'type': 'string'
             },
             'projection': {
                 'required': True,
                 'type': 'string'
-            }
+            },
+            'bandscount': {
+                'required': True,
+                'type': 'number'
+            },
         }
     },
-    'analyzer': {
+    'directory': {
         'required': True,
         'type': 'dict',
         'schema': {
-            'modelpath': {
+            'images': {
+                'required': True,
+                'type': 'string'
+            },
+            'tmp': {
+                'required': True,
+                'type': 'string'
+            },
+            'model': {
                 'required': True,
                 'type': 'string'
             },
         }
-    },
-    'timeout': {
-        'required': True,
-        'type': 'number'
-    },
-    'bandscount': {
-        'required': True,
-        'type': 'number'
-    },
-    'tmpdirectory': {
-        'required': True,
-        'type': 'string'
-    },        
-    'threads': {
-        'required': True,
-        'type': 'number'
     },
 }
 

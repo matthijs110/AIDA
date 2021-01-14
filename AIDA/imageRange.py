@@ -7,7 +7,7 @@ def get_range(mode, config, size):
     if(mode == "bbox"):
         west_range = list(arange(config['bbox']['west'], config['bbox']['east'], size))
         south_range = list(arange(config['bbox']['south'], config['bbox']['north'], size))
-        south_ranges = numpy.array_split(south_range, config['threads'])
+        south_ranges = numpy.array_split(south_range, config['service']['threads'])
 
         for south_range_part in south_ranges:
             west_south_range = list()
@@ -17,9 +17,9 @@ def get_range(mode, config, size):
             west_south_ranges.append(west_south_range)
 
     elif(mode == "indexFile"):
-        cords_file = open(f"{config['tmpdirectory']}/index/index.csv", 'r')
+        cords_file = open(f"{config['directory']['tmp']}/index/index.csv", 'r')
         west_south_range = cords_file.readlines()
-        west_south_ranges = numpy.array_split(west_south_range, config['threads'])
+        west_south_ranges = numpy.array_split(west_south_range, config['service']['threads'])
 
     return west_south_ranges
 

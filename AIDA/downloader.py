@@ -49,12 +49,12 @@ class downloadThread (threading.Thread):
                 return
             
             # Split west and south
-            west = float(west_south.split(",")[0])
-            south = float(west_south.split(",")[1])
+            west = int(west_south.split(",")[0])
+            south = int(west_south.split(",")[1])
 
             # Create Filenames
-            filename = f"{image_directory}/{west}_{south}_{size}.gdal.{config['service']['format']}"
-            tmpfilename = f"{config['tmpdirectory']}/xml/{west}-{south}.xml"
+            filename = f"{image_directory}/{west}_{south}_{size}.gdal.{config['image']['format']}"
+            tmpfilename = f"{config['directory']['tmp']}/xml/{west}-{south}.xml"
 
             # If file exists, skip.
             if(os.path.isfile(filename)):
@@ -71,10 +71,10 @@ class downloadThread (threading.Thread):
                 'east': west + size,
                 'north': south + size,
                 'resolution': config['image']['resolution'],
-                'timeout': config['timeout'],
                 'projection': config['image']['projection'],
-                'transparent': config['service']['transparent'],
-                'bandscount': config['bandscount']
+                'srs': config['bbox']['srs'],
+                'format': config['image']['format'],
+                'bandscount': config['image']['bandscount']
             }
             xml_params.update(config['service'])
 
@@ -90,7 +90,6 @@ class downloadThread (threading.Thread):
                     log.info(f"Created file: {tmpfilename} succesfully.")
                 except:
                     log.warning(f"Could not create file: {tmpfilename}. Retrying.")
-                    pass
             
             numberOfTriesDownloadingFile = 0
             fileDownloadedSuccesfully = False
@@ -101,8 +100,7 @@ class downloadThread (threading.Thread):
             while numberOfTriesDownloadingFile < 10 and fileDownloadedSuccesfully == False:
                 try:
                     numberOfTriesDownloadingFile = numberOfTriesDownloadingFile + 1
-                    args = ['gdal_translate', '-of', config['service']
-                            ['format'], tmpfilename, filename]
+                    args = ['gdal_translate', '-of', config['image']['format'], tmpfilename, filename]
 
                     # Running gdal_translate in subprocess
                     f = open("gdal.error.log", "a")
